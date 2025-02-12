@@ -1,0 +1,1 @@
+{"name":"Local: dui_chen_zi_chuan","url":"e:\\algorithom\\anyway\\dui_chen_zi_chuan.cpp","tests":[{"id":1733410136087,"input":"abcdhba abcd","output":"no"},{"id":1733454664201,"input":"abcdhbaghba ab","output":"7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\algorithom\\anyway\\dui_chen_zi_chuan.cpp","group":"local","local":true}

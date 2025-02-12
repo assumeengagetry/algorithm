@@ -1,0 +1,1 @@
+{"name":"Local: pseudo_palindrome","url":"e:\\algorithom\\anyway\\pseudo_palindrome.cpp","tests":[{"id":1735529323638,"input":"1\n122","output":"yes"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\algorithom\\anyway\\pseudo_palindrome.cpp","group":"local","local":true}
