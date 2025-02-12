@@ -1,3 +1,4 @@
+package parenttools; 
 public class Baby { 
     int servings; // 成员变量 servings
 
