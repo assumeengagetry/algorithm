@@ -1,7 +1,5 @@
 #include<iostream>
 using namespace std;
-
-
 struct Node
 {
     int xishu;
@@ -74,25 +72,24 @@ Node* addNode(Node *p1, Node *p2){
 
 
 int main() {
-    // 多项式1: 3x^4 + 2x^2 + 1
+
     int coef1[] = {3, 2, 1};
     int exp1[]  = {4, 2, 0};
     Node* poly1 = CreateNode(coef1, exp1, 3);
     cout << "P1(x) = ";
     printNode(poly1);
-    // 多项式2: 5x^3 + 2x^2 + 4
+
     int coef2[] = {5, 2, 4};
     int exp2[]  = {3, 2, 0};
     Node* poly2 = CreateNode(coef2, exp2, 3);
     cout << "P2(x) = ";
     printNode(poly2);
 
-    // 多项式加法
     Node* sum = addNode(poly1, poly2);
     cout << "P1(x) + P2(x) = ";
     printNode(sum);
     
-    // 释放内存
+
     for (Node* cur : {poly1, poly2, sum}) {
         Node* p = cur;
         while (p) {

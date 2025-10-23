@@ -1,23 +1,26 @@
 {
     "configurations": [
         {
-            "name": "windows-gcc-x64",
+            "name": "linux-gcc-x64",
             "includePath": [
                 "${workspaceFolder}/**",
-                "E:/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include",
-                "E:/MinGW/lib/gcc/x86_64-w64-mingw32/8.1.0/include-fixed",
-                "E:/MinGW/x86_64-w64-mingw32/include"
+                "/usr/include/c++/13",
+                "/usr/include/x86_64-linux-gnu/c++/13",
+                "/usr/include/c++/13/backward",
+                "/usr/lib/gcc/x86_64-linux-gnu/13/include",
+                "/usr/local/include",
+                "/usr/include/x86_64-linux-gnu",
+                "/usr/include"
             ],
             "defines": [
                 "_DEBUG",
                 "UNICODE",
                 "_UNICODE"
             ],
-            "windowsSdkVersion": "10.0.18362.0",
-            "compilerPath": "E:/MinGW/bin/g++.exe",
+            "compilerPath": "/usr/bin/g++",
             "cStandard": "c11",
             "cppStandard": "c++17",
-            "intelliSenseMode": "windows-gcc-x64"
+            "intelliSenseMode": "linux-gcc-x64"
         }
     ],
     "version": 4
