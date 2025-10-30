@@ -1,1 +1,0 @@
-{"name":"Local: word_reverse","url":"e:\\algorithom\\anyway\\word_reverse.cpp","tests":[{"id":1735526613457,"input":"I like thinking...","output":"I ekil gnikniht..."}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\algorithom\\anyway\\word_reverse.cpp","group":"local","local":true}

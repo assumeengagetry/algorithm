@@ -1,6 +1,6 @@
-#incldue<stdio.h>
+#include<stdio.h>
 int main(){
-    char k[]='QWERTYUIOP[]\ASDFGHJKL;ZXCVBNMMMMM,./';
+    char k[]="QWERTYUIOP[]\ASDFGHJKL;ZXCVBNMMMMM,./";
     int len= strlen(k);
     for(;;){
         
