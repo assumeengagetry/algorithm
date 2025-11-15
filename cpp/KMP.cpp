@@ -3,7 +3,6 @@
 #include <string>
 using namespace std;
 
-// 构建 next 数组
 vector<int> buildNext(const string &pattern) {
     int m = pattern.size();
     vector<int> next(m, 0);
@@ -18,7 +17,6 @@ vector<int> buildNext(const string &pattern) {
     return next;
 }
 
-// KMP 搜索
 int KMP(const string &text, const string &pattern) {
     int n = text.size(), m = pattern.size();
     vector<int> next = buildNext(pattern);
@@ -29,9 +27,9 @@ int KMP(const string &text, const string &pattern) {
         if (text[i] == pattern[j])
             j++;
         if (j == m)
-            return i - m + 1; // 匹配成功，返回起始位置
-    }
-    return -1; // 未找到
+            return i - m + 1; 
+           }
+    return -1;
 }
 
 int main() {
