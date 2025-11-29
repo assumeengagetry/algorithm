@@ -1,4 +1,5 @@
 //TODO:练习题：实现 `swap(int&, int&)` 和 `swap(int*, int*)`
+#include <cstring>
 #include <iostream>
 
 
@@ -34,6 +35,31 @@ public:
     }
 };
 
+class String {
+private:
+    char* data;
+public:
+    String(const char* str){
+        data = new char[strlen(str)+ 1];
+        strcpy(data, str);
+    }
+    String(const String& other){
+        data = new char[strlen(other.data) + 1];
+        strcpy(data, other.data);
+    }
+    String& operator=(const String& other){
+        if(this != &other){
+            delete[] data;
+        data = new char[strlen(other.data) + 1];
+        strcpy(data, other.data);
+        }
+        return  *this;
+    }
+    ~String(){
+        delete[] data;
+    }
+    const char* getdata() const {return data;}
+};
 
 class MyClass {
 public:
