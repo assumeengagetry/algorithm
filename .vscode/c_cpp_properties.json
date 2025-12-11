@@ -5,6 +5,7 @@
             "includePath": [
                 "${workspaceFolder}/**",
                 "/usr/include/c++/13",
+                "/usr/include/c++/v1",
                 "/usr/include/x86_64-linux-gnu/c++/13",
                 "/usr/include/c++/13/backward",
                 "/usr/lib/gcc/x86_64-linux-gnu/13/include",
@@ -18,8 +19,8 @@
                 "_UNICODE"
             ],
             "compilerPath": "/usr/bin/g++",
-            "cStandard": "c11",
-            "cppStandard": "c++17",
+            "cStandard": "c17",
+            "cppStandard": "gnu++26",
             "intelliSenseMode": "linux-gcc-x64"
         }
     ],
