@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/_______cpp_5.dir/进制.cpp.o -o bin/_______cpp_5 

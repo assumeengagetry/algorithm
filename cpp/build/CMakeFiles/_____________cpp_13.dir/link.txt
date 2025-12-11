@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/_____________cpp_13.dir/搜查教师.cpp.o -o bin/_____________cpp_13 

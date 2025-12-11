@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/_____________cpp_2.dir/分数求和.cpp.o -o bin/_____________cpp_2 

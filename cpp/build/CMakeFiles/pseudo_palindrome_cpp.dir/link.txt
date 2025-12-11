@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pseudo_palindrome_cpp.dir/pseudo_palindrome.cpp.o -o bin/pseudo_palindrome_cpp 

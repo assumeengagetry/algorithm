@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/_____________cpp_15.dir/新建联系.cpp.o -o bin/_____________cpp_15 

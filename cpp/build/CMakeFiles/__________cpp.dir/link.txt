@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/__________cpp.dir/找字串.cpp.o -o bin/__________cpp 

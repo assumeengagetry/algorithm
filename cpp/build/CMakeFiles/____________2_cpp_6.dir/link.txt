@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/____________2_cpp_6.dir/选择排序2.cpp.o -o bin/____________2_cpp_6 
