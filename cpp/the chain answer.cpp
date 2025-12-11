@@ -87,10 +87,10 @@ public:
     void printLinkedList() {
         LinkedNode* cur = _dummyHead;
         while (cur->next != nullptr) {
-            cout << cur->next->val << " ";
+            std::cout << cur->next->val << " ";
             cur = cur->next;
         }
-        cout << endl;
+        std::cout << std::endl;
     }
 private:
     int _size;

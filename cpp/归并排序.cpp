@@ -6,7 +6,7 @@ void merge(int* a,int L,int M,int R)
     int rightsize= R -M + 1;
     int* L_a=new int[leftsize];
     int* R_a=new int[rightsize];
-    for(int i=L;L<M;L++)
+    for(int i=L;i<M;i++)
     {
         L_a[i-L]=a[i];
     }
@@ -44,7 +44,7 @@ void merge_sort(int* a,int left,int right)
         merge(a,left,medium+1,right);
     }
 }
-void print(int a ,int n)
+void print(int* a ,int n)
 {
     for(int i=0;i<n;i++)
     {
@@ -53,8 +53,8 @@ void print(int a ,int n)
 }
 int main()
 {
-    int a={3,6,23,99,56,56,2,2};
-    merge_sort(a, 0 ,8);
-    print(a,8);
+    int a[]={3,6,23,99,56,56,2,2};
+    merge_sort(a, 0, 7);
+    print(a, 8);
     return 0;
 }

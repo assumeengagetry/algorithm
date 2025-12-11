@@ -1,3 +1,8 @@
+#include <string>
+#include <stack>
+#include <queue>
+using namespace std;
+
 class Solution {
 public:
     bool isValid(string s) {

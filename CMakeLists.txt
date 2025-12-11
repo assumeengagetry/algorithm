@@ -1,18 +1,16 @@
 cmake_minimum_required(VERSION 3.20)
-project(algorithm_cpp LANGUAGES CXX)
+project(algorithm_examples LANGUAGES CXX)
 
-set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD 17)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
-set(CMAKE_CXX_EXTENSIONS OFF)
-
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_BINARY_DIR}/bin")
 
 file(GLOB_RECURSE CPP_SOURCES CONFIGURE_DEPENDS
-    "${CMAKE_CURRENT_SOURCE_DIR}/*.cpp"
+    "${CMAKE_CURRENT_SOURCE_DIR}/cpp/*.cpp"
 )
 
 if(NOT CPP_SOURCES)
-    message(FATAL_ERROR "No .cpp files were found under ${CMAKE_CURRENT_SOURCE_DIR}")
+    message(FATAL_ERROR "No .cpp files were found under cpp/")
 endif()
 
 list(SORT CPP_SOURCES)
@@ -27,15 +25,9 @@ function(source_contains_main source_path result_var)
 endfunction()
 
 function(add_exec_for_source source_path)
-    if(source_path MATCHES "/build/")
-        cmake_path(RELATIVE_PATH source_path BASE_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}" OUTPUT_VARIABLE ignored_rel)
-        message(STATUS "Skipping ${ignored_rel} (inside a build directory)")
-        return()
-    endif()
-
     cmake_path(RELATIVE_PATH source_path BASE_DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}" OUTPUT_VARIABLE rel_path)
-    string(MAKE_C_IDENTIFIER "${rel_path}" target_name)
 
+    string(MAKE_C_IDENTIFIER "${rel_path}" target_name)
     if(target_name STREQUAL "")
         string(SHA1 hash "${rel_path}")
         string(SUBSTRING "${hash}" 0 8 target_name)
@@ -52,6 +44,11 @@ function(add_exec_for_source source_path)
         set(target_name "${base_name}_${counter}")
         math(EXPR counter "${counter} + 1")
     endwhile()
+
+    if(source_path MATCHES "/build/")
+        message(STATUS "Skipping ${rel_path} (inside build directory)")
+        return()
+    endif()
 
     source_contains_main("${source_path}" has_main)
     if(NOT has_main)

@@ -13,7 +13,7 @@ for(int i=0;i<s.size();i++)
         count++;
     }
 }
-s.resize(s.size()=s.size()+count*6);
+s.resize(s.size()==s.size()+count*6);
 int newindex=s.size()-1;
 while(oldidnex>=0)
 {

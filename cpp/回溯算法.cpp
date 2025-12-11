@@ -1,12 +1,14 @@
-
+#include <vector>
+#include <algorithm>
+using namespace  std;
 
 class Solution {
 private:
     vector<vector<int>> result;
     vector<int> path;
-    void backtracing(vector<int>& candidates, int target, int sum, int start_index, vector<int>& used){
+    void backtracing(vector<int>& candidates, int target, int sum, int start_index, vector<bool>& used){
         if(sum== target){
-            result.path_back(path);
+            result.push_back(path);
             return ;
         }
         for(int i= start_index; i< candidates.size() && sum + candidates[i] <= target; i++){
