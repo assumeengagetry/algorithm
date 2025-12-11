@@ -1,0 +1,3 @@
+/home/assumeengage/algorithm/cpp/build/CMakeFiles/logger_app.dir
+/home/assumeengage/algorithm/cpp/build/CMakeFiles/edit_cache.dir
+/home/assumeengage/algorithm/cpp/build/CMakeFiles/rebuild_cache.dir
