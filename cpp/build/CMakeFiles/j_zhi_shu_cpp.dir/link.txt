@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/j_zhi_shu_cpp.dir/j_zhi_shu.cpp.o -o bin/j_zhi_shu_cpp 
+/usr/bin/g++ CMakeFiles/j_zhi_shu_cpp.dir/j_zhi_shu.cpp.o -o bin/j_zhi_shu_cpp 

@@ -73,15 +73,15 @@ CMakeFiles/graph2_cpp.dir/graph2.cpp.o: CMakeFiles/graph2_cpp.dir/flags.make
 CMakeFiles/graph2_cpp.dir/graph2.cpp.o: /home/assumeengage/algorithm/cpp/graph2.cpp
 CMakeFiles/graph2_cpp.dir/graph2.cpp.o: CMakeFiles/graph2_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/graph2_cpp.dir/graph2.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph2_cpp.dir/graph2.cpp.o -MF CMakeFiles/graph2_cpp.dir/graph2.cpp.o.d -o CMakeFiles/graph2_cpp.dir/graph2.cpp.o -c /home/assumeengage/algorithm/cpp/graph2.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph2_cpp.dir/graph2.cpp.o -MF CMakeFiles/graph2_cpp.dir/graph2.cpp.o.d -o CMakeFiles/graph2_cpp.dir/graph2.cpp.o -c /home/assumeengage/algorithm/cpp/graph2.cpp
 
 CMakeFiles/graph2_cpp.dir/graph2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/graph2_cpp.dir/graph2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/graph2.cpp > CMakeFiles/graph2_cpp.dir/graph2.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/graph2.cpp > CMakeFiles/graph2_cpp.dir/graph2.cpp.i
 
 CMakeFiles/graph2_cpp.dir/graph2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/graph2_cpp.dir/graph2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/graph2.cpp -o CMakeFiles/graph2_cpp.dir/graph2.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/graph2.cpp -o CMakeFiles/graph2_cpp.dir/graph2.cpp.s
 
 # Object files for target graph2_cpp
 graph2_cpp_OBJECTS = \

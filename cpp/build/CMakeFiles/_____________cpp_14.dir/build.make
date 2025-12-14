@@ -73,15 +73,15 @@ CMakeFiles/_____________cpp_14.dir/数的表示.cpp.o: CMakeFiles/_____________c
 CMakeFiles/_____________cpp_14.dir/数的表示.cpp.o: /home/assumeengage/algorithm/cpp/数的表示.cpp
 CMakeFiles/_____________cpp_14.dir/数的表示.cpp.o: CMakeFiles/_____________cpp_14.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/_____________cpp_14.dir/数的表示.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_____________cpp_14.dir/数的表示.cpp.o -MF CMakeFiles/_____________cpp_14.dir/数的表示.cpp.o.d -o CMakeFiles/_____________cpp_14.dir/数的表示.cpp.o -c /home/assumeengage/algorithm/cpp/数的表示.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_____________cpp_14.dir/数的表示.cpp.o -MF CMakeFiles/_____________cpp_14.dir/数的表示.cpp.o.d -o CMakeFiles/_____________cpp_14.dir/数的表示.cpp.o -c /home/assumeengage/algorithm/cpp/数的表示.cpp
 
 CMakeFiles/_____________cpp_14.dir/数的表示.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/_____________cpp_14.dir/数的表示.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/数的表示.cpp > CMakeFiles/_____________cpp_14.dir/数的表示.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/数的表示.cpp > CMakeFiles/_____________cpp_14.dir/数的表示.cpp.i
 
 CMakeFiles/_____________cpp_14.dir/数的表示.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/_____________cpp_14.dir/数的表示.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/数的表示.cpp -o CMakeFiles/_____________cpp_14.dir/数的表示.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/数的表示.cpp -o CMakeFiles/_____________cpp_14.dir/数的表示.cpp.s
 
 # Object files for target _____________cpp_14
 _____________cpp_14_OBJECTS = \

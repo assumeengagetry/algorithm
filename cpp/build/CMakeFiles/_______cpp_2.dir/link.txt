@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/_______cpp_2.dir/插入.cpp.o -o bin/_______cpp_2 
+/usr/bin/g++ CMakeFiles/_______cpp_2.dir/插入.cpp.o -o bin/_______cpp_2 

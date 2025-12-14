@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_oop_cpp.dir/cpp/oop.cpp.o -o bin/cpp_oop_cpp 

@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/_________________________cpp.dir/将数字化成字符串.cpp.o -o bin/_________________________cpp 
+/usr/bin/g++ CMakeFiles/_________________________cpp.dir/将数字化成字符串.cpp.o -o bin/_________________________cpp 

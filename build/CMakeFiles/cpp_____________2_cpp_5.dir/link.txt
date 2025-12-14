@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_____________2_cpp_5.dir/cpp/排名计数2.cpp.o -o bin/cpp_____________2_cpp_5 

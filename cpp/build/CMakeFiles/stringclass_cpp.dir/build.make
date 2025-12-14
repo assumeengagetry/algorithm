@@ -73,15 +73,15 @@ CMakeFiles/stringclass_cpp.dir/stringclass.cpp.o: CMakeFiles/stringclass_cpp.dir
 CMakeFiles/stringclass_cpp.dir/stringclass.cpp.o: /home/assumeengage/algorithm/cpp/stringclass.cpp
 CMakeFiles/stringclass_cpp.dir/stringclass.cpp.o: CMakeFiles/stringclass_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/stringclass_cpp.dir/stringclass.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/stringclass_cpp.dir/stringclass.cpp.o -MF CMakeFiles/stringclass_cpp.dir/stringclass.cpp.o.d -o CMakeFiles/stringclass_cpp.dir/stringclass.cpp.o -c /home/assumeengage/algorithm/cpp/stringclass.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/stringclass_cpp.dir/stringclass.cpp.o -MF CMakeFiles/stringclass_cpp.dir/stringclass.cpp.o.d -o CMakeFiles/stringclass_cpp.dir/stringclass.cpp.o -c /home/assumeengage/algorithm/cpp/stringclass.cpp
 
 CMakeFiles/stringclass_cpp.dir/stringclass.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/stringclass_cpp.dir/stringclass.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/stringclass.cpp > CMakeFiles/stringclass_cpp.dir/stringclass.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/stringclass.cpp > CMakeFiles/stringclass_cpp.dir/stringclass.cpp.i
 
 CMakeFiles/stringclass_cpp.dir/stringclass.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/stringclass_cpp.dir/stringclass.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/stringclass.cpp -o CMakeFiles/stringclass_cpp.dir/stringclass.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/stringclass.cpp -o CMakeFiles/stringclass_cpp.dir/stringclass.cpp.s
 
 # Object files for target stringclass_cpp
 stringclass_cpp_OBJECTS = \

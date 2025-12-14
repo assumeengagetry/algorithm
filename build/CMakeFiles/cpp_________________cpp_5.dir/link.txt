@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_________________cpp_5.dir/cpp/请输入密码.cpp.o -o bin/cpp_________________cpp_5 

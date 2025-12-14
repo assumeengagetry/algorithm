@@ -73,15 +73,15 @@ CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.o: CMakeFiles/my_coding_s
 CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.o: /home/assumeengage/algorithm/cpp/my\ coding\ sheet.cpp
 CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.o: CMakeFiles/my_coding_sheet_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.o -MF CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.o.d -o CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.o -c "/home/assumeengage/algorithm/cpp/my coding sheet.cpp"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.o -MF CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.o.d -o CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.o -c "/home/assumeengage/algorithm/cpp/my coding sheet.cpp"
 
 CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/assumeengage/algorithm/cpp/my coding sheet.cpp" > CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/assumeengage/algorithm/cpp/my coding sheet.cpp" > CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.i
 
 CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/assumeengage/algorithm/cpp/my coding sheet.cpp" -o CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/assumeengage/algorithm/cpp/my coding sheet.cpp" -o CMakeFiles/my_coding_sheet_cpp.dir/my_coding_sheet.cpp.s
 
 # Object files for target my_coding_sheet_cpp
 my_coding_sheet_cpp_OBJECTS = \

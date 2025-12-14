@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_selfcontain_cpp.dir/cpp/selfcontain.cpp.o -o bin/cpp_selfcontain_cpp 

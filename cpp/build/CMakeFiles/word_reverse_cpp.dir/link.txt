@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o -o bin/word_reverse_cpp 
+/usr/bin/g++ CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o -o bin/word_reverse_cpp 

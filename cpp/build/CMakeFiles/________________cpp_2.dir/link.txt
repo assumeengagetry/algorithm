@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/________________cpp_2.dir/引用与指针.cpp.o -o bin/________________cpp_2 
+/usr/bin/g++ CMakeFiles/________________cpp_2.dir/引用与指针.cpp.o -o bin/________________cpp_2 

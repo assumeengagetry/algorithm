@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_shell_and_terminal_cpp.dir/cpp/shell_and_terminal.cpp.o -o bin/cpp_shell_and_terminal_cpp 

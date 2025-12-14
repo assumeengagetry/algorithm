@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/_____________cpp_3.dir/分类排序.cpp.o -o bin/_____________cpp_3 
+/usr/bin/g++ CMakeFiles/_____________cpp_3.dir/分类排序.cpp.o -o bin/_____________cpp_3 

@@ -73,15 +73,15 @@ CMakeFiles/map_cpp.dir/map.cpp.o: CMakeFiles/map_cpp.dir/flags.make
 CMakeFiles/map_cpp.dir/map.cpp.o: /home/assumeengage/algorithm/cpp/map.cpp
 CMakeFiles/map_cpp.dir/map.cpp.o: CMakeFiles/map_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/map_cpp.dir/map.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/map_cpp.dir/map.cpp.o -MF CMakeFiles/map_cpp.dir/map.cpp.o.d -o CMakeFiles/map_cpp.dir/map.cpp.o -c /home/assumeengage/algorithm/cpp/map.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/map_cpp.dir/map.cpp.o -MF CMakeFiles/map_cpp.dir/map.cpp.o.d -o CMakeFiles/map_cpp.dir/map.cpp.o -c /home/assumeengage/algorithm/cpp/map.cpp
 
 CMakeFiles/map_cpp.dir/map.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/map_cpp.dir/map.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/map.cpp > CMakeFiles/map_cpp.dir/map.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/map.cpp > CMakeFiles/map_cpp.dir/map.cpp.i
 
 CMakeFiles/map_cpp.dir/map.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/map_cpp.dir/map.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/map.cpp -o CMakeFiles/map_cpp.dir/map.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/map.cpp -o CMakeFiles/map_cpp.dir/map.cpp.s
 
 # Object files for target map_cpp
 map_cpp_OBJECTS = \

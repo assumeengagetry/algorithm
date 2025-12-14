@@ -1,0 +1,870 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "algorithm_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "KMP2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KMP2_cpp-2bb82d022088669fbd68.json",
+					"name" : "KMP2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "KMP_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-KMP_cpp-b3ccee3c5c2285c451d8.json",
+					"name" : "KMP_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Kruskal_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Kruskal_cpp-b82d8b5b6adcd2af6b6a.json",
+					"name" : "Kruskal_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Prim_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Prim_cpp-5d3c22152a45237e3578.json",
+					"name" : "Prim_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_________3_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_________3_cpp-b2ffa56cc344649b05dd.json",
+					"name" : "_________3_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "____________2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-____________2_cpp-86e3519471f18f928d46.json",
+					"name" : "____________2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "____________2_cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-____________2_cpp_2-aeb875a69699fe168a28.json",
+					"name" : "____________2_cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "____________2_cpp_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-____________2_cpp_3-17f6bda0c25def3e0ae1.json",
+					"name" : "____________2_cpp_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "____________2_cpp_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-____________2_cpp_4-30d3373572171764a641.json",
+					"name" : "____________2_cpp_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "____________2_cpp_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-____________2_cpp_5-42824617acdde6346665.json",
+					"name" : "____________2_cpp_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "____________2_cpp_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-____________2_cpp_6-e9c2eb471e3be1216ee4.json",
+					"name" : "____________2_cpp_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______________1_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______________1_cpp-5125f84adc4f3ae6665e.json",
+					"name" : "_______________1_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______________2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______________2_cpp-82ee86b36900bf2fcdba.json",
+					"name" : "_______________2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______________2_cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______________2_cpp_2-c3ae3c0e37845c831a69.json",
+					"name" : "_______________2_cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______________3_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______________3_cpp-f5e3a035dc1c532c6fa1.json",
+					"name" : "_______________3_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______________3_cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______________3_cpp_2-f314ecd51533590a73fa.json",
+					"name" : "_______________3_cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______________4_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______________4_cpp-e9eb0b2c122ce1b4d4c7.json",
+					"name" : "_______________4_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "______________________________2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-______________________________2_cpp-28be37bde2c27e3a3915.json",
+					"name" : "______________________________2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_________________________________________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_________________________________________________cpp-6d9b4c7d6ae7fd2586d1.json",
+					"name" : "_________________________________________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________________________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________________________________cpp-670850fe9eb140183ef7.json",
+					"name" : "_____________________________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______________________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______________________________cpp-ea2952dc191a99c2c12f.json",
+					"name" : "_______________________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______________________________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______________________________cpp_2-c7ad09b044c7ce249778.json",
+					"name" : "_______________________________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______________________________cpp_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______________________________cpp_3-9885e9c45b6c227a086f.json",
+					"name" : "_______________________________cpp_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "____________________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-____________________________cpp-f83741eef1c7816bd0c9.json",
+					"name" : "____________________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "____________________________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-____________________________cpp_2-ab071100b6487509e105.json",
+					"name" : "____________________________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_________________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_________________________cpp-1c1680b06655b1123d9b.json",
+					"name" : "_________________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_________________________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_________________________cpp_2-e60dcaacd9a5c6a3dfe7.json",
+					"name" : "_________________________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "______________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-______________________cpp-df6ea1bb638205c50468.json",
+					"name" : "______________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "___________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-___________________cpp-10ba5763adc3aa7eaf08.json",
+					"name" : "___________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-________________cpp-e0407b6bf44dde3285ab.json",
+					"name" : "________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "________________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-________________cpp_2-5ebfc508c7aa8067418c.json",
+					"name" : "________________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "________________cpp_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-________________cpp_3-e22644f20fa145f3c5db.json",
+					"name" : "________________cpp_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "________________cpp_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-________________cpp_4-9ee63399edad10556fb8.json",
+					"name" : "________________cpp_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "________________cpp_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-________________cpp_5-1ab85be2c1acb712f40c.json",
+					"name" : "________________cpp_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp-01f00250b6fcf6fd8bff.json",
+					"name" : "_____________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_10-992993df61df55566dc8.json",
+					"name" : "_____________cpp_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_11-a997b8fb38df4e04986c.json",
+					"name" : "_____________cpp_11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_12-220521f67b3e60acfd11.json",
+					"name" : "_____________cpp_12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_13-b6867cc2a8f3047e0a25.json",
+					"name" : "_____________cpp_13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_14-839511791cc4830f5421.json",
+					"name" : "_____________cpp_14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_15-0381dfd228199be7aa3b.json",
+					"name" : "_____________cpp_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_16-4e888214eb57d23e4716.json",
+					"name" : "_____________cpp_16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_17-f8ef605f61c8ecaeb4fa.json",
+					"name" : "_____________cpp_17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_18-893ad9b2b0f4b0b3401d.json",
+					"name" : "_____________cpp_18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_2-a01c3001db9cc1915b5e.json",
+					"name" : "_____________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_3-4108886065369f5ff0a9.json",
+					"name" : "_____________cpp_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_4-42cc4287dcaa042de4f1.json",
+					"name" : "_____________cpp_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_5-8d6786cf7b88feb53178.json",
+					"name" : "_____________cpp_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_6-4e57d5b9cf37e4334964.json",
+					"name" : "_____________cpp_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_7-a1c167d655acf4b7679c.json",
+					"name" : "_____________cpp_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_8-da829483c2347e62201a.json",
+					"name" : "_____________cpp_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_____________cpp_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_____________cpp_9-c17bebd453635a0e48df.json",
+					"name" : "_____________cpp_9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "__________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-__________cpp-07491264e22b10719257.json",
+					"name" : "__________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "__________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-__________cpp_2-e7fd75f7c82faa3ec58c.json",
+					"name" : "__________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______cpp-d6fd14acf32b14237b30.json",
+					"name" : "_______cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______cpp_2-c397504fd2ac099e5d24.json",
+					"name" : "_______cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______cpp_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______cpp_3-70f7123eb9b2b7ee2041.json",
+					"name" : "_______cpp_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______cpp_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______cpp_4-7b8967a890956bc801d2.json",
+					"name" : "_______cpp_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______cpp_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______cpp_5-a38a834e3c7a73e228be.json",
+					"name" : "_______cpp_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "_______cpp_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-_______cpp_6-46dcc06346f46b4ed887.json",
+					"name" : "_______cpp_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "base64_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-base64_cpp-b182de3869416737fc10.json",
+					"name" : "base64_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "change_number_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-change_number_cpp-7c53ebc4182f9cf1939b.json",
+					"name" : "change_number_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "competition_ranking_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-competition_ranking_cpp-08324a114035995f3b50.json",
+					"name" : "competition_ranking_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "graph1_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-graph1_cpp-6cc0909c361bff65d1bf.json",
+					"name" : "graph1_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "graph2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-graph2_cpp-d467f2e043413a2fa070.json",
+					"name" : "graph2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "graph3_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-graph3_cpp-c42c74eb4a466b55df49.json",
+					"name" : "graph3_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "graph4_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-graph4_cpp-591160ba979e4d87989a.json",
+					"name" : "graph4_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "homework_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-homework_cpp-2a2005b3b8780e57f20b.json",
+					"name" : "homework_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "implement_queue_using_stack_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-implement_queue_using_stack_cpp-cebc58eec184395cfef9.json",
+					"name" : "implement_queue_using_stack_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "implement_stack_using_queue_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-implement_stack_using_queue_cpp-0f62be281ed2c0e3a110.json",
+					"name" : "implement_stack_using_queue_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "iomainio_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-iomainio_cpp-e16f6eab12685273df89.json",
+					"name" : "iomainio_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "j_zhi_shu_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-j_zhi_shu_cpp-7aafbd55bb1ef5a23cdf.json",
+					"name" : "j_zhi_shu_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "list_node_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-list_node_cpp-77d5041227a709ced855.json",
+					"name" : "list_node_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "map_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-map_cpp-2e95739b872eb41f4b60.json",
+					"name" : "map_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_coding_sheet2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_coding_sheet2_cpp-088b7dbac3d85d4c2640.json",
+					"name" : "my_coding_sheet2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_coding_sheet3_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_coding_sheet3_cpp-940a91cb7d85d6df0baf.json",
+					"name" : "my_coding_sheet3_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "my_coding_sheet_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-my_coding_sheet_cpp-a8b69fdb9d5d3809c24e.json",
+					"name" : "my_coding_sheet_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "oop_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-oop_cpp-ae876cf28a74603b6c6e.json",
+					"name" : "oop_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pseudo_palindrome_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pseudo_palindrome_cpp-3a5d8bb5569d5c852763.json",
+					"name" : "pseudo_palindrome_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "refcountNode_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-refcountNode_cpp-04bcb80c4095a45efed8.json",
+					"name" : "refcountNode_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "selfcontain_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-selfcontain_cpp-73f0eb43f09547e45e1c.json",
+					"name" : "selfcontain_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "shell_and_terminal_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-shell_and_terminal_cpp-32be0665847057ece791.json",
+					"name" : "shell_and_terminal_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "sparse_matrix_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-sparse_matrix_cpp-54b7e5daf6bebea05448.json",
+					"name" : "sparse_matrix_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stl_example_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stl_example_cpp-5b9de2bd15d806e6872b.json",
+					"name" : "stl_example_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "stringclass_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-stringclass_cpp-c9be32534aa4f73e8e89.json",
+					"name" : "stringclass_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "suibianlaiyixia_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-suibianlaiyixia_cpp-21803754f61f1319a042.json",
+					"name" : "suibianlaiyixia_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "testcpp20_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-testcpp20_cpp-60af5de7991cca203ea9.json",
+					"name" : "testcpp20_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "the_add_and_bonus_of_the_chain_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-the_add_and_bonus_of_the_chain_cpp-638c2fd593cb68da3069.json",
+					"name" : "the_add_and_bonus_of_the_chain_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "try_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-try_cpp-e687d0da6e40877d40f6.json",
+					"name" : "try_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "vector_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-vector_cpp-5eb5abb0b6f1efd1a36d.json",
+					"name" : "vector_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "word_reverse_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-word_reverse_cpp-c0a1455e3b086e2c9858.json",
+					"name" : "word_reverse_cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/assumeengage/algorithm/cpp/build",
+		"source" : "/home/assumeengage/algorithm/cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

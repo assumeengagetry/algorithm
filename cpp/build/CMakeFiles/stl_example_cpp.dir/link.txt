@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/stl_example_cpp.dir/stl_example.cpp.o -o bin/stl_example_cpp 
+/usr/bin/g++ CMakeFiles/stl_example_cpp.dir/stl_example.cpp.o -o bin/stl_example_cpp 

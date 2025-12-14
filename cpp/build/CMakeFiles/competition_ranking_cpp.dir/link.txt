@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o -o bin/competition_ranking_cpp 
+/usr/bin/g++ CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o -o bin/competition_ranking_cpp 

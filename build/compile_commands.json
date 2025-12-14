@@ -1,0 +1,548 @@
+[
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_KMP_cpp.dir/cpp/KMP.cpp.o -c /home/assumeengage/algorithm/cpp/KMP.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/KMP.cpp",
+  "output": "CMakeFiles/cpp_KMP_cpp.dir/cpp/KMP.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_KMP2_cpp.dir/cpp/KMP2.cpp.o -c /home/assumeengage/algorithm/cpp/KMP2.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/KMP2.cpp",
+  "output": "CMakeFiles/cpp_KMP2_cpp.dir/cpp/KMP2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_Kruskal_cpp.dir/cpp/Kruskal.cpp.o -c /home/assumeengage/algorithm/cpp/Kruskal.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/Kruskal.cpp",
+  "output": "CMakeFiles/cpp_Kruskal_cpp.dir/cpp/Kruskal.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_Prim_cpp.dir/cpp/Prim.cpp.o -c /home/assumeengage/algorithm/cpp/Prim.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/Prim.cpp",
+  "output": "CMakeFiles/cpp_Prim_cpp.dir/cpp/Prim.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_base64_cpp.dir/cpp/base64.cpp.o -c /home/assumeengage/algorithm/cpp/base64.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/base64.cpp",
+  "output": "CMakeFiles/cpp_base64_cpp.dir/cpp/base64.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_change_number_cpp.dir/cpp/change_number.cpp.o -c \"/home/assumeengage/algorithm/cpp/change number.cpp\"",
+  "file": "/home/assumeengage/algorithm/cpp/change number.cpp",
+  "output": "CMakeFiles/cpp_change_number_cpp.dir/cpp/change_number.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_competition_ranking_cpp.dir/cpp/competition_ranking.cpp.o -c /home/assumeengage/algorithm/cpp/competition_ranking.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/competition_ranking.cpp",
+  "output": "CMakeFiles/cpp_competition_ranking_cpp.dir/cpp/competition_ranking.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_graph1_cpp.dir/cpp/graph1.cpp.o -c /home/assumeengage/algorithm/cpp/graph1.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/graph1.cpp",
+  "output": "CMakeFiles/cpp_graph1_cpp.dir/cpp/graph1.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_graph2_cpp.dir/cpp/graph2.cpp.o -c /home/assumeengage/algorithm/cpp/graph2.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/graph2.cpp",
+  "output": "CMakeFiles/cpp_graph2_cpp.dir/cpp/graph2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_graph3_cpp.dir/cpp/graph3.cpp.o -c /home/assumeengage/algorithm/cpp/graph3.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/graph3.cpp",
+  "output": "CMakeFiles/cpp_graph3_cpp.dir/cpp/graph3.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_graph4_cpp.dir/cpp/graph4.cpp.o -c /home/assumeengage/algorithm/cpp/graph4.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/graph4.cpp",
+  "output": "CMakeFiles/cpp_graph4_cpp.dir/cpp/graph4.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_homework_cpp.dir/cpp/homework.cpp.o -c /home/assumeengage/algorithm/cpp/homework.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/homework.cpp",
+  "output": "CMakeFiles/cpp_homework_cpp.dir/cpp/homework.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_implement_queue_using_stack_cpp.dir/cpp/implement_queue_using_stack.cpp.o -c \"/home/assumeengage/algorithm/cpp/implement queue using stack.cpp\"",
+  "file": "/home/assumeengage/algorithm/cpp/implement queue using stack.cpp",
+  "output": "CMakeFiles/cpp_implement_queue_using_stack_cpp.dir/cpp/implement_queue_using_stack.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_implement_stack_using_queue_cpp.dir/cpp/implement_stack_using_queue.cpp.o -c \"/home/assumeengage/algorithm/cpp/implement stack using queue.cpp\"",
+  "file": "/home/assumeengage/algorithm/cpp/implement stack using queue.cpp",
+  "output": "CMakeFiles/cpp_implement_stack_using_queue_cpp.dir/cpp/implement_stack_using_queue.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_iomainio_cpp.dir/cpp/iomainio.cpp.o -c /home/assumeengage/algorithm/cpp/iomainio.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/iomainio.cpp",
+  "output": "CMakeFiles/cpp_iomainio_cpp.dir/cpp/iomainio.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_j_zhi_shu_cpp.dir/cpp/j_zhi_shu.cpp.o -c /home/assumeengage/algorithm/cpp/j_zhi_shu.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/j_zhi_shu.cpp",
+  "output": "CMakeFiles/cpp_j_zhi_shu_cpp.dir/cpp/j_zhi_shu.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_list_node_cpp.dir/cpp/list_node.cpp.o -c /home/assumeengage/algorithm/cpp/list_node.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/list_node.cpp",
+  "output": "CMakeFiles/cpp_list_node_cpp.dir/cpp/list_node.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_map_cpp.dir/cpp/map.cpp.o -c /home/assumeengage/algorithm/cpp/map.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/map.cpp",
+  "output": "CMakeFiles/cpp_map_cpp.dir/cpp/map.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_my_coding_sheet_cpp.dir/cpp/my_coding_sheet.cpp.o -c \"/home/assumeengage/algorithm/cpp/my coding sheet.cpp\"",
+  "file": "/home/assumeengage/algorithm/cpp/my coding sheet.cpp",
+  "output": "CMakeFiles/cpp_my_coding_sheet_cpp.dir/cpp/my_coding_sheet.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_my_coding_sheet2_cpp.dir/cpp/my_coding_sheet2.cpp.o -c \"/home/assumeengage/algorithm/cpp/my coding sheet2.cpp\"",
+  "file": "/home/assumeengage/algorithm/cpp/my coding sheet2.cpp",
+  "output": "CMakeFiles/cpp_my_coding_sheet2_cpp.dir/cpp/my_coding_sheet2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_my_coding_sheet3_cpp.dir/cpp/my_coding_sheet3.cpp.o -c \"/home/assumeengage/algorithm/cpp/my coding sheet3.cpp\"",
+  "file": "/home/assumeengage/algorithm/cpp/my coding sheet3.cpp",
+  "output": "CMakeFiles/cpp_my_coding_sheet3_cpp.dir/cpp/my_coding_sheet3.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_oop_cpp.dir/cpp/oop.cpp.o -c /home/assumeengage/algorithm/cpp/oop.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/oop.cpp",
+  "output": "CMakeFiles/cpp_oop_cpp.dir/cpp/oop.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_pseudo_palindrome_cpp.dir/cpp/pseudo_palindrome.cpp.o -c /home/assumeengage/algorithm/cpp/pseudo_palindrome.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/pseudo_palindrome.cpp",
+  "output": "CMakeFiles/cpp_pseudo_palindrome_cpp.dir/cpp/pseudo_palindrome.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_refcountNode_cpp.dir/cpp/refcountNode.cpp.o -c /home/assumeengage/algorithm/cpp/refcountNode.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/refcountNode.cpp",
+  "output": "CMakeFiles/cpp_refcountNode_cpp.dir/cpp/refcountNode.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_selfcontain_cpp.dir/cpp/selfcontain.cpp.o -c /home/assumeengage/algorithm/cpp/selfcontain.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/selfcontain.cpp",
+  "output": "CMakeFiles/cpp_selfcontain_cpp.dir/cpp/selfcontain.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_shell_and_terminal_cpp.dir/cpp/shell_and_terminal.cpp.o -c \"/home/assumeengage/algorithm/cpp/shell and terminal.cpp\"",
+  "file": "/home/assumeengage/algorithm/cpp/shell and terminal.cpp",
+  "output": "CMakeFiles/cpp_shell_and_terminal_cpp.dir/cpp/shell_and_terminal.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_sparse_matrix_cpp.dir/cpp/sparse_matrix.cpp.o -c /home/assumeengage/algorithm/cpp/sparse_matrix.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/sparse_matrix.cpp",
+  "output": "CMakeFiles/cpp_sparse_matrix_cpp.dir/cpp/sparse_matrix.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_stl_example_cpp.dir/cpp/stl_example.cpp.o -c /home/assumeengage/algorithm/cpp/stl_example.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/stl_example.cpp",
+  "output": "CMakeFiles/cpp_stl_example_cpp.dir/cpp/stl_example.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_stringclass_cpp.dir/cpp/stringclass.cpp.o -c /home/assumeengage/algorithm/cpp/stringclass.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/stringclass.cpp",
+  "output": "CMakeFiles/cpp_stringclass_cpp.dir/cpp/stringclass.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_suibianlaiyixia_cpp.dir/cpp/suibianlaiyixia.cpp.o -c /home/assumeengage/algorithm/cpp/suibianlaiyixia.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/suibianlaiyixia.cpp",
+  "output": "CMakeFiles/cpp_suibianlaiyixia_cpp.dir/cpp/suibianlaiyixia.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_testcpp20_cpp.dir/cpp/testcpp20.cpp.o -c /home/assumeengage/algorithm/cpp/testcpp20.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/testcpp20.cpp",
+  "output": "CMakeFiles/cpp_testcpp20_cpp.dir/cpp/testcpp20.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_the_add_and_bonus_of_the_chain_cpp.dir/cpp/the_add_and_bonus_of_the_chain.cpp.o -c \"/home/assumeengage/algorithm/cpp/the add and bonus of the chain.cpp\"",
+  "file": "/home/assumeengage/algorithm/cpp/the add and bonus of the chain.cpp",
+  "output": "CMakeFiles/cpp_the_add_and_bonus_of_the_chain_cpp.dir/cpp/the_add_and_bonus_of_the_chain.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_try_cpp.dir/cpp/try.cpp.o -c /home/assumeengage/algorithm/cpp/try.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/try.cpp",
+  "output": "CMakeFiles/cpp_try_cpp.dir/cpp/try.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_vector_cpp.dir/cpp/vector.cpp.o -c /home/assumeengage/algorithm/cpp/vector.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/vector.cpp",
+  "output": "CMakeFiles/cpp_vector_cpp.dir/cpp/vector.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_word_reverse_cpp.dir/cpp/word_reverse.cpp.o -c /home/assumeengage/algorithm/cpp/word_reverse.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/word_reverse.cpp",
+  "output": "CMakeFiles/cpp_word_reverse_cpp.dir/cpp/word_reverse.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________________________________cpp.dir/cpp/一元多项式表达与运算.cpp.o -c /home/assumeengage/algorithm/cpp/一元多项式表达与运算.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/一元多项式表达与运算.cpp",
+  "output": "CMakeFiles/cpp________________________________cpp.dir/cpp/一元多项式表达与运算.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_______________________________2_cpp.dir/cpp/一元多项式表达与运算2.cpp.o -c /home/assumeengage/algorithm/cpp/一元多项式表达与运算2.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/一元多项式表达与运算2.cpp",
+  "output": "CMakeFiles/cpp_______________________________2_cpp.dir/cpp/一元多项式表达与运算2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________________________________cpp.dir/cpp/三元组顺序表稀疏矩阵转置.cpp.o -c /home/assumeengage/algorithm/cpp/三元组顺序表稀疏矩阵转置.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/三元组顺序表稀疏矩阵转置.cpp",
+  "output": "CMakeFiles/cpp______________________________________cpp.dir/cpp/三元组顺序表稀疏矩阵转置.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp__________________________________________________cpp.dir/cpp/二叉树先序中序后序遍历递归非递归.cpp.o -c /home/assumeengage/algorithm/cpp/二叉树先序中序后序遍历递归非递归.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/二叉树先序中序后序遍历递归非递归.cpp",
+  "output": "CMakeFiles/cpp__________________________________________________cpp.dir/cpp/二叉树先序中序后序遍历递归非递归.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________________1_cpp.dir/cpp/二维前缀和1.cpp.o -c /home/assumeengage/algorithm/cpp/二维前缀和1.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/二维前缀和1.cpp",
+  "output": "CMakeFiles/cpp________________1_cpp.dir/cpp/二维前缀和1.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________________2_cpp.dir/cpp/二维前缀和2.cpp.o -c /home/assumeengage/algorithm/cpp/二维前缀和2.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/二维前缀和2.cpp",
+  "output": "CMakeFiles/cpp________________2_cpp.dir/cpp/二维前缀和2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________________3_cpp.dir/cpp/二维前缀和3.cpp.o -c /home/assumeengage/algorithm/cpp/二维前缀和3.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/二维前缀和3.cpp",
+  "output": "CMakeFiles/cpp________________3_cpp.dir/cpp/二维前缀和3.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________________4_cpp.dir/cpp/二维前缀和4.cpp.o -c /home/assumeengage/algorithm/cpp/二维前缀和4.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/二维前缀和4.cpp",
+  "output": "CMakeFiles/cpp________________4_cpp.dir/cpp/二维前缀和4.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp.dir/cpp/冒泡排序.cpp.o -c /home/assumeengage/algorithm/cpp/冒泡排序.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/冒泡排序.cpp",
+  "output": "CMakeFiles/cpp______________cpp.dir/cpp/冒泡排序.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_____________2_cpp.dir/cpp/冒泡排序2.cpp.o -c /home/assumeengage/algorithm/cpp/冒泡排序2.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/冒泡排序2.cpp",
+  "output": "CMakeFiles/cpp_____________2_cpp.dir/cpp/冒泡排序2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_2.dir/cpp/分数求和.cpp.o -c /home/assumeengage/algorithm/cpp/分数求和.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/分数求和.cpp",
+  "output": "CMakeFiles/cpp______________cpp_2.dir/cpp/分数求和.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_3.dir/cpp/分类排序.cpp.o -c /home/assumeengage/algorithm/cpp/分类排序.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/分类排序.cpp",
+  "output": "CMakeFiles/cpp______________cpp_3.dir/cpp/分类排序.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_4.dir/cpp/分解偶数.cpp.o -c /home/assumeengage/algorithm/cpp/分解偶数.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/分解偶数.cpp",
+  "output": "CMakeFiles/cpp______________cpp_4.dir/cpp/分解偶数.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_____________________________cpp.dir/cpp/判断二叉树是否对称.cpp.o -c /home/assumeengage/algorithm/cpp/判断二叉树是否对称.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/判断二叉树是否对称.cpp",
+  "output": "CMakeFiles/cpp_____________________________cpp.dir/cpp/判断二叉树是否对称.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_5.dir/cpp/动态规划.cpp.o -c /home/assumeengage/algorithm/cpp/动态规划.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/动态规划.cpp",
+  "output": "CMakeFiles/cpp______________cpp_5.dir/cpp/动态规划.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_________________cpp.dir/cpp/动规二叉树.cpp.o -c /home/assumeengage/algorithm/cpp/动规二叉树.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/动规二叉树.cpp",
+  "output": "CMakeFiles/cpp_________________cpp.dir/cpp/动规二叉树.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________________________________cpp_2.dir/cpp/十六进制和八进制转化.cpp.o -c /home/assumeengage/algorithm/cpp/十六进制和八进制转化.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/十六进制和八进制转化.cpp",
+  "output": "CMakeFiles/cpp________________________________cpp_2.dir/cpp/十六进制和八进制转化.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________________________________cpp_3.dir/cpp/十字链表表示稀疏矩阵.cpp.o -c /home/assumeengage/algorithm/cpp/十字链表表示稀疏矩阵.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/十字链表表示稀疏矩阵.cpp",
+  "output": "CMakeFiles/cpp________________________________cpp_3.dir/cpp/十字链表表示稀疏矩阵.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_______________________cpp.dir/cpp/单调递减的数字.cpp.o -c /home/assumeengage/algorithm/cpp/单调递减的数字.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/单调递减的数字.cpp",
+  "output": "CMakeFiles/cpp_______________________cpp.dir/cpp/单调递减的数字.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_6.dir/cpp/对称字串.cpp.o -c /home/assumeengage/algorithm/cpp/对称字串.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/对称字串.cpp",
+  "output": "CMakeFiles/cpp______________cpp_6.dir/cpp/对称字串.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_____________2_cpp_2.dir/cpp/对称字串2.cpp.o -c /home/assumeengage/algorithm/cpp/对称字串2.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/对称字串2.cpp",
+  "output": "CMakeFiles/cpp_____________2_cpp_2.dir/cpp/对称字串2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp__________________________cpp.dir/cpp/将数字化成字符串.cpp.o -c /home/assumeengage/algorithm/cpp/将数字化成字符串.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/将数字化成字符串.cpp",
+  "output": "CMakeFiles/cpp__________________________cpp.dir/cpp/将数字化成字符串.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_____________________________cpp_2.dir/cpp/将数字转化成字符串.cpp.o -c /home/assumeengage/algorithm/cpp/将数字转化成字符串.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/将数字转化成字符串.cpp",
+  "output": "CMakeFiles/cpp_____________________________cpp_2.dir/cpp/将数字转化成字符串.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_________________cpp_2.dir/cpp/引用与指针.cpp.o -c /home/assumeengage/algorithm/cpp/引用与指针.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/引用与指针.cpp",
+  "output": "CMakeFiles/cpp_________________cpp_2.dir/cpp/引用与指针.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_7.dir/cpp/引用计数.cpp.o -c /home/assumeengage/algorithm/cpp/引用计数.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/引用计数.cpp",
+  "output": "CMakeFiles/cpp______________cpp_7.dir/cpp/引用计数.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_8.dir/cpp/归并排序.cpp.o -c /home/assumeengage/algorithm/cpp/归并排序.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/归并排序.cpp",
+  "output": "CMakeFiles/cpp______________cpp_8.dir/cpp/归并排序.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_____________2_cpp_3.dir/cpp/归并排序2.cpp.o -c /home/assumeengage/algorithm/cpp/归并排序2.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/归并排序2.cpp",
+  "output": "CMakeFiles/cpp_____________2_cpp_3.dir/cpp/归并排序2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp__________3_cpp.dir/cpp/循环赛3.cpp.o -c /home/assumeengage/algorithm/cpp/循环赛3.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/循环赛3.cpp",
+  "output": "CMakeFiles/cpp__________3_cpp.dir/cpp/循环赛3.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________cpp.dir/cpp/快排.cpp.o -c /home/assumeengage/algorithm/cpp/快排.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/快排.cpp",
+  "output": "CMakeFiles/cpp________cpp.dir/cpp/快排.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_9.dir/cpp/快速排序.cpp.o -c /home/assumeengage/algorithm/cpp/快速排序.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/快速排序.cpp",
+  "output": "CMakeFiles/cpp______________cpp_9.dir/cpp/快速排序.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_____________2_cpp_4.dir/cpp/快速排序2.cpp.o -c /home/assumeengage/algorithm/cpp/快速排序2.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/快速排序2.cpp",
+  "output": "CMakeFiles/cpp_____________2_cpp_4.dir/cpp/快速排序2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp___________cpp.dir/cpp/找字串.cpp.o -c /home/assumeengage/algorithm/cpp/找字串.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/找字串.cpp",
+  "output": "CMakeFiles/cpp___________cpp.dir/cpp/找字串.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_10.dir/cpp/括号匹配.cpp.o -c /home/assumeengage/algorithm/cpp/括号匹配.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/括号匹配.cpp",
+  "output": "CMakeFiles/cpp______________cpp_10.dir/cpp/括号匹配.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_11.dir/cpp/排列排序.cpp.o -c /home/assumeengage/algorithm/cpp/排列排序.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/排列排序.cpp",
+  "output": "CMakeFiles/cpp______________cpp_11.dir/cpp/排列排序.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_12.dir/cpp/排名计数.cpp.o -c /home/assumeengage/algorithm/cpp/排名计数.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/排名计数.cpp",
+  "output": "CMakeFiles/cpp______________cpp_12.dir/cpp/排名计数.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_____________2_cpp_5.dir/cpp/排名计数2.cpp.o -c /home/assumeengage/algorithm/cpp/排名计数2.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/排名计数2.cpp",
+  "output": "CMakeFiles/cpp_____________2_cpp_5.dir/cpp/排名计数2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________cpp_2.dir/cpp/插入.cpp.o -c /home/assumeengage/algorithm/cpp/插入.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/插入.cpp",
+  "output": "CMakeFiles/cpp________cpp_2.dir/cpp/插入.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_13.dir/cpp/搜查教师.cpp.o -c /home/assumeengage/algorithm/cpp/搜查教师.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/搜查教师.cpp",
+  "output": "CMakeFiles/cpp______________cpp_13.dir/cpp/搜查教师.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_14.dir/cpp/数的表示.cpp.o -c /home/assumeengage/algorithm/cpp/数的表示.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/数的表示.cpp",
+  "output": "CMakeFiles/cpp______________cpp_14.dir/cpp/数的表示.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_15.dir/cpp/新建联系.cpp.o -c /home/assumeengage/algorithm/cpp/新建联系.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/新建联系.cpp",
+  "output": "CMakeFiles/cpp______________cpp_15.dir/cpp/新建联系.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp__________________________cpp_2.dir/cpp/暴力讨论一维数组.cpp.o -c /home/assumeengage/algorithm/cpp/暴力讨论一维数组.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/暴力讨论一维数组.cpp",
+  "output": "CMakeFiles/cpp__________________________cpp_2.dir/cpp/暴力讨论一维数组.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_16.dir/cpp/木桶排序.cpp.o -c /home/assumeengage/algorithm/cpp/木桶排序.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/木桶排序.cpp",
+  "output": "CMakeFiles/cpp______________cpp_16.dir/cpp/木桶排序.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_17.dir/cpp/查找教师.cpp.o -c /home/assumeengage/algorithm/cpp/查找教师.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/查找教师.cpp",
+  "output": "CMakeFiles/cpp______________cpp_17.dir/cpp/查找教师.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_________________cpp_3.dir/cpp/用栈走迷宫.cpp.o -c /home/assumeengage/algorithm/cpp/用栈走迷宫.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/用栈走迷宫.cpp",
+  "output": "CMakeFiles/cpp_________________cpp_3.dir/cpp/用栈走迷宫.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________________2_cpp_2.dir/cpp/用栈走迷宫2.cpp.o -c /home/assumeengage/algorithm/cpp/用栈走迷宫2.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/用栈走迷宫2.cpp",
+  "output": "CMakeFiles/cpp________________2_cpp_2.dir/cpp/用栈走迷宫2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________________3_cpp_2.dir/cpp/用栈走迷宫3.cpp.o -c /home/assumeengage/algorithm/cpp/用栈走迷宫3.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/用栈走迷宫3.cpp",
+  "output": "CMakeFiles/cpp________________3_cpp_2.dir/cpp/用栈走迷宫3.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp____________________cpp.dir/cpp/类型的极限数.cpp.o -c /home/assumeengage/algorithm/cpp/类型的极限数.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/类型的极限数.cpp",
+  "output": "CMakeFiles/cpp____________________cpp.dir/cpp/类型的极限数.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________cpp_3.dir/cpp/练习.cpp.o -c /home/assumeengage/algorithm/cpp/练习.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/练习.cpp",
+  "output": "CMakeFiles/cpp________cpp_3.dir/cpp/练习.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_________________cpp_4.dir/cpp/自定义函数.cpp.o -c /home/assumeengage/algorithm/cpp/自定义函数.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/自定义函数.cpp",
+  "output": "CMakeFiles/cpp_________________cpp_4.dir/cpp/自定义函数.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_________________cpp_5.dir/cpp/请输入密码.cpp.o -c /home/assumeengage/algorithm/cpp/请输入密码.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/请输入密码.cpp",
+  "output": "CMakeFiles/cpp_________________cpp_5.dir/cpp/请输入密码.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________cpp_4.dir/cpp/调试.cpp.o -c /home/assumeengage/algorithm/cpp/调试.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/调试.cpp",
+  "output": "CMakeFiles/cpp________cpp_4.dir/cpp/调试.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp___________cpp_2.dir/cpp/走迷宫.cpp.o -c /home/assumeengage/algorithm/cpp/走迷宫.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/走迷宫.cpp",
+  "output": "CMakeFiles/cpp___________cpp_2.dir/cpp/走迷宫.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________cpp_5.dir/cpp/进制.cpp.o -c /home/assumeengage/algorithm/cpp/进制.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/进制.cpp",
+  "output": "CMakeFiles/cpp________cpp_5.dir/cpp/进制.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp______________cpp_18.dir/cpp/选择排序.cpp.o -c /home/assumeengage/algorithm/cpp/选择排序.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/选择排序.cpp",
+  "output": "CMakeFiles/cpp______________cpp_18.dir/cpp/选择排序.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp_____________2_cpp_6.dir/cpp/选择排序2.cpp.o -c /home/assumeengage/algorithm/cpp/选择排序2.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/选择排序2.cpp",
+  "output": "CMakeFiles/cpp_____________2_cpp_6.dir/cpp/选择排序2.cpp.o"
+},
+{
+  "directory": "/home/assumeengage/algorithm/build",
+  "command": "/usr/bin/g++   -g -std=gnu++17 -o CMakeFiles/cpp________cpp_6.dir/cpp/高精.cpp.o -c /home/assumeengage/algorithm/cpp/高精.cpp",
+  "file": "/home/assumeengage/algorithm/cpp/高精.cpp",
+  "output": "CMakeFiles/cpp________cpp_6.dir/cpp/高精.cpp.o"
+}
+]

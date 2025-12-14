@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/graph2_cpp.dir/graph2.cpp.o -o bin/graph2_cpp 
+/usr/bin/g++ CMakeFiles/graph2_cpp.dir/graph2.cpp.o -o bin/graph2_cpp 

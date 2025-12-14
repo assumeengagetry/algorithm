@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/try_cpp.dir/try.cpp.o -o bin/try_cpp 
+/usr/bin/g++ CMakeFiles/try_cpp.dir/try.cpp.o -o bin/try_cpp 

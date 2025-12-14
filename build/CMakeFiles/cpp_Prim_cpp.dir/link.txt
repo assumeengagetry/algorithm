@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_Prim_cpp.dir/cpp/Prim.cpp.o -o bin/cpp_Prim_cpp 

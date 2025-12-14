@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_my_coding_sheet_cpp.dir/cpp/my_coding_sheet.cpp.o -o bin/cpp_my_coding_sheet_cpp 

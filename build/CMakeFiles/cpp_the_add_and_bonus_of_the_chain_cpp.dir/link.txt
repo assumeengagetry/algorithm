@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_the_add_and_bonus_of_the_chain_cpp.dir/cpp/the_add_and_bonus_of_the_chain.cpp.o -o bin/cpp_the_add_and_bonus_of_the_chain_cpp 

@@ -73,15 +73,15 @@ CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o: CMakeFiles/word_reverse_cpp.
 CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o: /home/assumeengage/algorithm/cpp/word_reverse.cpp
 CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o: CMakeFiles/word_reverse_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o -MF CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o.d -o CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o -c /home/assumeengage/algorithm/cpp/word_reverse.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o -MF CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o.d -o CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.o -c /home/assumeengage/algorithm/cpp/word_reverse.cpp
 
 CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/word_reverse.cpp > CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/word_reverse.cpp > CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.i
 
 CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/word_reverse.cpp -o CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/word_reverse.cpp -o CMakeFiles/word_reverse_cpp.dir/word_reverse.cpp.s
 
 # Object files for target word_reverse_cpp
 word_reverse_cpp_OBJECTS = \

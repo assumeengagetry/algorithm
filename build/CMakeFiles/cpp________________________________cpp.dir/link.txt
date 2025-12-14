@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp________________________________cpp.dir/cpp/一元多项式表达与运算.cpp.o -o bin/cpp________________________________cpp 

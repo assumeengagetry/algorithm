@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/_____________cpp_4.dir/分解偶数.cpp.o -o bin/_____________cpp_4 
+/usr/bin/g++ CMakeFiles/_____________cpp_4.dir/分解偶数.cpp.o -o bin/_____________cpp_4 

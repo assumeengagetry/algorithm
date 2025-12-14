@@ -73,15 +73,15 @@ CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.o: CMakeFiles
 CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.o: /home/assumeengage/algorithm/cpp/单调递减的数字.cpp
 CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.o: CMakeFiles/______________________cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.o -MF CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.o.d -o CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.o -c /home/assumeengage/algorithm/cpp/单调递减的数字.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.o -MF CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.o.d -o CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.o -c /home/assumeengage/algorithm/cpp/单调递减的数字.cpp
 
 CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/单调递减的数字.cpp > CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/单调递减的数字.cpp > CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.i
 
 CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/单调递减的数字.cpp -o CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/单调递减的数字.cpp -o CMakeFiles/______________________cpp.dir/单调递减的数字.cpp.s
 
 # Object files for target ______________________cpp
 ______________________cpp_OBJECTS = \

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp______________cpp_7.dir/cpp/引用计数.cpp.o -o bin/cpp______________cpp_7 

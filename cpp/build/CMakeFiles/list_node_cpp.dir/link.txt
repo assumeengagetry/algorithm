@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/list_node_cpp.dir/list_node.cpp.o -o bin/list_node_cpp 
+/usr/bin/g++ CMakeFiles/list_node_cpp.dir/list_node.cpp.o -o bin/list_node_cpp 

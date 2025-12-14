@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp________cpp_6.dir/cpp/高精.cpp.o -o bin/cpp________cpp_6 

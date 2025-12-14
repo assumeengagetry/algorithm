@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_testcpp20_cpp.dir/cpp/testcpp20.cpp.o -o bin/cpp_testcpp20_cpp 

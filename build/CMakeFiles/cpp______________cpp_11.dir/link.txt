@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp______________cpp_11.dir/cpp/排列排序.cpp.o -o bin/cpp______________cpp_11 

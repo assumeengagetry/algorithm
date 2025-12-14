@@ -73,15 +73,15 @@ CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o: CMakeFiles/suibianlaiy
 CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o: /home/assumeengage/algorithm/cpp/suibianlaiyixia.cpp
 CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o: CMakeFiles/suibianlaiyixia_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o -MF CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o.d -o CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o -c /home/assumeengage/algorithm/cpp/suibianlaiyixia.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o -MF CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o.d -o CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o -c /home/assumeengage/algorithm/cpp/suibianlaiyixia.cpp
 
 CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/suibianlaiyixia.cpp > CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/suibianlaiyixia.cpp > CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.i
 
 CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/suibianlaiyixia.cpp -o CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/suibianlaiyixia.cpp -o CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.s
 
 # Object files for target suibianlaiyixia_cpp
 suibianlaiyixia_cpp_OBJECTS = \

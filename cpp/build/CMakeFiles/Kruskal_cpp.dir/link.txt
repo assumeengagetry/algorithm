@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/Kruskal_cpp.dir/Kruskal.cpp.o -o bin/Kruskal_cpp 
+/usr/bin/g++ CMakeFiles/Kruskal_cpp.dir/Kruskal.cpp.o -o bin/Kruskal_cpp 

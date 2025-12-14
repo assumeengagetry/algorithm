@@ -73,15 +73,15 @@ CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.o
 CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.o: /home/assumeengage/algorithm/cpp/判断二叉树是否对称.cpp
 CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.o: CMakeFiles/____________________________cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.o -MF CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.o.d -o CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.o -c /home/assumeengage/algorithm/cpp/判断二叉树是否对称.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.o -MF CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.o.d -o CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.o -c /home/assumeengage/algorithm/cpp/判断二叉树是否对称.cpp
 
 CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/判断二叉树是否对称.cpp > CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/判断二叉树是否对称.cpp > CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.i
 
 CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/判断二叉树是否对称.cpp -o CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/判断二叉树是否对称.cpp -o CMakeFiles/____________________________cpp.dir/判断二叉树是否对称.cpp.s
 
 # Object files for target ____________________________cpp
 ____________________________cpp_OBJECTS = \

@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o -o bin/____________2_cpp_4 
+/usr/bin/g++ CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o -o bin/____________2_cpp_4 

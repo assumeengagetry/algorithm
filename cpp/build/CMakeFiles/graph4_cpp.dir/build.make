@@ -73,15 +73,15 @@ CMakeFiles/graph4_cpp.dir/graph4.cpp.o: CMakeFiles/graph4_cpp.dir/flags.make
 CMakeFiles/graph4_cpp.dir/graph4.cpp.o: /home/assumeengage/algorithm/cpp/graph4.cpp
 CMakeFiles/graph4_cpp.dir/graph4.cpp.o: CMakeFiles/graph4_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/graph4_cpp.dir/graph4.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph4_cpp.dir/graph4.cpp.o -MF CMakeFiles/graph4_cpp.dir/graph4.cpp.o.d -o CMakeFiles/graph4_cpp.dir/graph4.cpp.o -c /home/assumeengage/algorithm/cpp/graph4.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/graph4_cpp.dir/graph4.cpp.o -MF CMakeFiles/graph4_cpp.dir/graph4.cpp.o.d -o CMakeFiles/graph4_cpp.dir/graph4.cpp.o -c /home/assumeengage/algorithm/cpp/graph4.cpp
 
 CMakeFiles/graph4_cpp.dir/graph4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/graph4_cpp.dir/graph4.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/graph4.cpp > CMakeFiles/graph4_cpp.dir/graph4.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/graph4.cpp > CMakeFiles/graph4_cpp.dir/graph4.cpp.i
 
 CMakeFiles/graph4_cpp.dir/graph4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/graph4_cpp.dir/graph4.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/graph4.cpp -o CMakeFiles/graph4_cpp.dir/graph4.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/graph4.cpp -o CMakeFiles/graph4_cpp.dir/graph4.cpp.s
 
 # Object files for target graph4_cpp
 graph4_cpp_OBJECTS = \

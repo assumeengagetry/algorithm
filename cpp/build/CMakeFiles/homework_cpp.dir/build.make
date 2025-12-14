@@ -73,15 +73,15 @@ CMakeFiles/homework_cpp.dir/homework.cpp.o: CMakeFiles/homework_cpp.dir/flags.ma
 CMakeFiles/homework_cpp.dir/homework.cpp.o: /home/assumeengage/algorithm/cpp/homework.cpp
 CMakeFiles/homework_cpp.dir/homework.cpp.o: CMakeFiles/homework_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/homework_cpp.dir/homework.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/homework_cpp.dir/homework.cpp.o -MF CMakeFiles/homework_cpp.dir/homework.cpp.o.d -o CMakeFiles/homework_cpp.dir/homework.cpp.o -c /home/assumeengage/algorithm/cpp/homework.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/homework_cpp.dir/homework.cpp.o -MF CMakeFiles/homework_cpp.dir/homework.cpp.o.d -o CMakeFiles/homework_cpp.dir/homework.cpp.o -c /home/assumeengage/algorithm/cpp/homework.cpp
 
 CMakeFiles/homework_cpp.dir/homework.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/homework_cpp.dir/homework.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/homework.cpp > CMakeFiles/homework_cpp.dir/homework.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/homework.cpp > CMakeFiles/homework_cpp.dir/homework.cpp.i
 
 CMakeFiles/homework_cpp.dir/homework.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/homework_cpp.dir/homework.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/homework.cpp -o CMakeFiles/homework_cpp.dir/homework.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/homework.cpp -o CMakeFiles/homework_cpp.dir/homework.cpp.s
 
 # Object files for target homework_cpp
 homework_cpp_OBJECTS = \

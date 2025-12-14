@@ -73,15 +73,15 @@ CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.o
 CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.o: /home/assumeengage/algorithm/cpp/implement\ stack\ using\ queue.cpp
 CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.o: CMakeFiles/implement_stack_using_queue_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.o -MF CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.o.d -o CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.o -c "/home/assumeengage/algorithm/cpp/implement stack using queue.cpp"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.o -MF CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.o.d -o CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.o -c "/home/assumeengage/algorithm/cpp/implement stack using queue.cpp"
 
 CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/assumeengage/algorithm/cpp/implement stack using queue.cpp" > CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/assumeengage/algorithm/cpp/implement stack using queue.cpp" > CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.i
 
 CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/assumeengage/algorithm/cpp/implement stack using queue.cpp" -o CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/assumeengage/algorithm/cpp/implement stack using queue.cpp" -o CMakeFiles/implement_stack_using_queue_cpp.dir/implement_stack_using_queue.cpp.s
 
 # Object files for target implement_stack_using_queue_cpp
 implement_stack_using_queue_cpp_OBJECTS = \

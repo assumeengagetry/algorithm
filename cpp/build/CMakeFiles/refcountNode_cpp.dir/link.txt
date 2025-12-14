@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/refcountNode_cpp.dir/refcountNode.cpp.o -o bin/refcountNode_cpp 
+/usr/bin/g++ CMakeFiles/refcountNode_cpp.dir/refcountNode.cpp.o -o bin/refcountNode_cpp 

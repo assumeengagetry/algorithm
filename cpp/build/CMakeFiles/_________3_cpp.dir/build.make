@@ -73,15 +73,15 @@ CMakeFiles/_________3_cpp.dir/循环赛3.cpp.o: CMakeFiles/_________3_cpp.dir/fl
 CMakeFiles/_________3_cpp.dir/循环赛3.cpp.o: /home/assumeengage/algorithm/cpp/循环赛3.cpp
 CMakeFiles/_________3_cpp.dir/循环赛3.cpp.o: CMakeFiles/_________3_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/_________3_cpp.dir/循环赛3.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_________3_cpp.dir/循环赛3.cpp.o -MF CMakeFiles/_________3_cpp.dir/循环赛3.cpp.o.d -o CMakeFiles/_________3_cpp.dir/循环赛3.cpp.o -c /home/assumeengage/algorithm/cpp/循环赛3.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_________3_cpp.dir/循环赛3.cpp.o -MF CMakeFiles/_________3_cpp.dir/循环赛3.cpp.o.d -o CMakeFiles/_________3_cpp.dir/循环赛3.cpp.o -c /home/assumeengage/algorithm/cpp/循环赛3.cpp
 
 CMakeFiles/_________3_cpp.dir/循环赛3.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/_________3_cpp.dir/循环赛3.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/循环赛3.cpp > CMakeFiles/_________3_cpp.dir/循环赛3.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/循环赛3.cpp > CMakeFiles/_________3_cpp.dir/循环赛3.cpp.i
 
 CMakeFiles/_________3_cpp.dir/循环赛3.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/_________3_cpp.dir/循环赛3.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/循环赛3.cpp -o CMakeFiles/_________3_cpp.dir/循环赛3.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/循环赛3.cpp -o CMakeFiles/_________3_cpp.dir/循环赛3.cpp.s
 
 # Object files for target _________3_cpp
 _________3_cpp_OBJECTS = \

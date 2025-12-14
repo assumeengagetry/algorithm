@@ -73,15 +73,15 @@ CMakeFiles/________________cpp_5.dir/请输入密码.cpp.o: CMakeFiles/_________
 CMakeFiles/________________cpp_5.dir/请输入密码.cpp.o: /home/assumeengage/algorithm/cpp/请输入密码.cpp
 CMakeFiles/________________cpp_5.dir/请输入密码.cpp.o: CMakeFiles/________________cpp_5.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/________________cpp_5.dir/请输入密码.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/________________cpp_5.dir/请输入密码.cpp.o -MF CMakeFiles/________________cpp_5.dir/请输入密码.cpp.o.d -o CMakeFiles/________________cpp_5.dir/请输入密码.cpp.o -c /home/assumeengage/algorithm/cpp/请输入密码.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/________________cpp_5.dir/请输入密码.cpp.o -MF CMakeFiles/________________cpp_5.dir/请输入密码.cpp.o.d -o CMakeFiles/________________cpp_5.dir/请输入密码.cpp.o -c /home/assumeengage/algorithm/cpp/请输入密码.cpp
 
 CMakeFiles/________________cpp_5.dir/请输入密码.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/________________cpp_5.dir/请输入密码.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/请输入密码.cpp > CMakeFiles/________________cpp_5.dir/请输入密码.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/请输入密码.cpp > CMakeFiles/________________cpp_5.dir/请输入密码.cpp.i
 
 CMakeFiles/________________cpp_5.dir/请输入密码.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/________________cpp_5.dir/请输入密码.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/请输入密码.cpp -o CMakeFiles/________________cpp_5.dir/请输入密码.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/请输入密码.cpp -o CMakeFiles/________________cpp_5.dir/请输入密码.cpp.s
 
 # Object files for target ________________cpp_5
 ________________cpp_5_OBJECTS = \

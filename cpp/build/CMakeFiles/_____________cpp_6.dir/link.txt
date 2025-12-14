@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/_____________cpp_6.dir/对称字串.cpp.o -o bin/_____________cpp_6 
+/usr/bin/g++ CMakeFiles/_____________cpp_6.dir/对称字串.cpp.o -o bin/_____________cpp_6 

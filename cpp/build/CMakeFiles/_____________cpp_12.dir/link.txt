@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/_____________cpp_12.dir/排名计数.cpp.o -o bin/_____________cpp_12 
+/usr/bin/g++ CMakeFiles/_____________cpp_12.dir/排名计数.cpp.o -o bin/_____________cpp_12 

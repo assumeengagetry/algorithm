@@ -73,15 +73,15 @@ CMakeFiles/Prim_cpp.dir/Prim.cpp.o: CMakeFiles/Prim_cpp.dir/flags.make
 CMakeFiles/Prim_cpp.dir/Prim.cpp.o: /home/assumeengage/algorithm/cpp/Prim.cpp
 CMakeFiles/Prim_cpp.dir/Prim.cpp.o: CMakeFiles/Prim_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Prim_cpp.dir/Prim.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Prim_cpp.dir/Prim.cpp.o -MF CMakeFiles/Prim_cpp.dir/Prim.cpp.o.d -o CMakeFiles/Prim_cpp.dir/Prim.cpp.o -c /home/assumeengage/algorithm/cpp/Prim.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Prim_cpp.dir/Prim.cpp.o -MF CMakeFiles/Prim_cpp.dir/Prim.cpp.o.d -o CMakeFiles/Prim_cpp.dir/Prim.cpp.o -c /home/assumeengage/algorithm/cpp/Prim.cpp
 
 CMakeFiles/Prim_cpp.dir/Prim.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Prim_cpp.dir/Prim.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/Prim.cpp > CMakeFiles/Prim_cpp.dir/Prim.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/Prim.cpp > CMakeFiles/Prim_cpp.dir/Prim.cpp.i
 
 CMakeFiles/Prim_cpp.dir/Prim.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Prim_cpp.dir/Prim.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/Prim.cpp -o CMakeFiles/Prim_cpp.dir/Prim.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/Prim.cpp -o CMakeFiles/Prim_cpp.dir/Prim.cpp.s
 
 # Object files for target Prim_cpp
 Prim_cpp_OBJECTS = \

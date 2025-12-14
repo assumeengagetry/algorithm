@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/my_coding_sheet3_cpp.dir/my_coding_sheet3.cpp.o -o bin/my_coding_sheet3_cpp 
+/usr/bin/g++ CMakeFiles/my_coding_sheet3_cpp.dir/my_coding_sheet3.cpp.o -o bin/my_coding_sheet3_cpp 

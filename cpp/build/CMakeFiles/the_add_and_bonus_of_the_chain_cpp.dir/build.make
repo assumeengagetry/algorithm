@@ -73,15 +73,15 @@ CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain
 CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.o: /home/assumeengage/algorithm/cpp/the\ add\ and\ bonus\ of\ the\ chain.cpp
 CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.o: CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.o -MF CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.o.d -o CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.o -c "/home/assumeengage/algorithm/cpp/the add and bonus of the chain.cpp"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.o -MF CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.o.d -o CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.o -c "/home/assumeengage/algorithm/cpp/the add and bonus of the chain.cpp"
 
 CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/assumeengage/algorithm/cpp/the add and bonus of the chain.cpp" > CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/assumeengage/algorithm/cpp/the add and bonus of the chain.cpp" > CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.i
 
 CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/assumeengage/algorithm/cpp/the add and bonus of the chain.cpp" -o CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/assumeengage/algorithm/cpp/the add and bonus of the chain.cpp" -o CMakeFiles/the_add_and_bonus_of_the_chain_cpp.dir/the_add_and_bonus_of_the_chain.cpp.s
 
 # Object files for target the_add_and_bonus_of_the_chain_cpp
 the_add_and_bonus_of_the_chain_cpp_OBJECTS = \

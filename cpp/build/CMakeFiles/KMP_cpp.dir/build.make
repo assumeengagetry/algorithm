@@ -73,15 +73,15 @@ CMakeFiles/KMP_cpp.dir/KMP.cpp.o: CMakeFiles/KMP_cpp.dir/flags.make
 CMakeFiles/KMP_cpp.dir/KMP.cpp.o: /home/assumeengage/algorithm/cpp/KMP.cpp
 CMakeFiles/KMP_cpp.dir/KMP.cpp.o: CMakeFiles/KMP_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/KMP_cpp.dir/KMP.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/KMP_cpp.dir/KMP.cpp.o -MF CMakeFiles/KMP_cpp.dir/KMP.cpp.o.d -o CMakeFiles/KMP_cpp.dir/KMP.cpp.o -c /home/assumeengage/algorithm/cpp/KMP.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/KMP_cpp.dir/KMP.cpp.o -MF CMakeFiles/KMP_cpp.dir/KMP.cpp.o.d -o CMakeFiles/KMP_cpp.dir/KMP.cpp.o -c /home/assumeengage/algorithm/cpp/KMP.cpp
 
 CMakeFiles/KMP_cpp.dir/KMP.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/KMP_cpp.dir/KMP.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/KMP.cpp > CMakeFiles/KMP_cpp.dir/KMP.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/KMP.cpp > CMakeFiles/KMP_cpp.dir/KMP.cpp.i
 
 CMakeFiles/KMP_cpp.dir/KMP.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/KMP_cpp.dir/KMP.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/KMP.cpp -o CMakeFiles/KMP_cpp.dir/KMP.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/KMP.cpp -o CMakeFiles/KMP_cpp.dir/KMP.cpp.s
 
 # Object files for target KMP_cpp
 KMP_cpp_OBJECTS = \

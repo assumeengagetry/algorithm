@@ -73,15 +73,15 @@ CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.o: CMakeFiles/shell
 CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.o: /home/assumeengage/algorithm/cpp/shell\ and\ terminal.cpp
 CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.o: CMakeFiles/shell_and_terminal_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.o -MF CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.o.d -o CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.o -c "/home/assumeengage/algorithm/cpp/shell and terminal.cpp"
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.o -MF CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.o.d -o CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.o -c "/home/assumeengage/algorithm/cpp/shell and terminal.cpp"
 
 CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/assumeengage/algorithm/cpp/shell and terminal.cpp" > CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/assumeengage/algorithm/cpp/shell and terminal.cpp" > CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.i
 
 CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/assumeengage/algorithm/cpp/shell and terminal.cpp" -o CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/assumeengage/algorithm/cpp/shell and terminal.cpp" -o CMakeFiles/shell_and_terminal_cpp.dir/shell_and_terminal.cpp.s
 
 # Object files for target shell_and_terminal_cpp
 shell_and_terminal_cpp_OBJECTS = \

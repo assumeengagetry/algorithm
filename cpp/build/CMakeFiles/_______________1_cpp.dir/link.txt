@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/_______________1_cpp.dir/二维前缀和1.cpp.o -o bin/_______________1_cpp 
+/usr/bin/g++ CMakeFiles/_______________1_cpp.dir/二维前缀和1.cpp.o -o bin/_______________1_cpp 

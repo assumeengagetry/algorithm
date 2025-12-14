@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp________cpp_3.dir/cpp/练习.cpp.o -o bin/cpp________cpp_3 

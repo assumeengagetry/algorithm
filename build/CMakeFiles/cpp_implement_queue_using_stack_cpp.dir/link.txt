@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_implement_queue_using_stack_cpp.dir/cpp/implement_queue_using_stack.cpp.o -o bin/cpp_implement_queue_using_stack_cpp 

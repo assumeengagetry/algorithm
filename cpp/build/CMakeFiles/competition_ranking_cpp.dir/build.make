@@ -73,15 +73,15 @@ CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o: CMakeFiles/com
 CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o: /home/assumeengage/algorithm/cpp/competition_ranking.cpp
 CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o: CMakeFiles/competition_ranking_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o -MF CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o.d -o CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o -c /home/assumeengage/algorithm/cpp/competition_ranking.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o -MF CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o.d -o CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.o -c /home/assumeengage/algorithm/cpp/competition_ranking.cpp
 
 CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/competition_ranking.cpp > CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/competition_ranking.cpp > CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.i
 
 CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/competition_ranking.cpp -o CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/competition_ranking.cpp -o CMakeFiles/competition_ranking_cpp.dir/competition_ranking.cpp.s
 
 # Object files for target competition_ranking_cpp
 competition_ranking_cpp_OBJECTS = \

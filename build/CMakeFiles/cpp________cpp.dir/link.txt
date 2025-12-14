@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp________cpp.dir/cpp/快排.cpp.o -o bin/cpp________cpp 

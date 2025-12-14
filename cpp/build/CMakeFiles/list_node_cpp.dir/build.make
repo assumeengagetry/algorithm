@@ -73,15 +73,15 @@ CMakeFiles/list_node_cpp.dir/list_node.cpp.o: CMakeFiles/list_node_cpp.dir/flags
 CMakeFiles/list_node_cpp.dir/list_node.cpp.o: /home/assumeengage/algorithm/cpp/list_node.cpp
 CMakeFiles/list_node_cpp.dir/list_node.cpp.o: CMakeFiles/list_node_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/list_node_cpp.dir/list_node.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/list_node_cpp.dir/list_node.cpp.o -MF CMakeFiles/list_node_cpp.dir/list_node.cpp.o.d -o CMakeFiles/list_node_cpp.dir/list_node.cpp.o -c /home/assumeengage/algorithm/cpp/list_node.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/list_node_cpp.dir/list_node.cpp.o -MF CMakeFiles/list_node_cpp.dir/list_node.cpp.o.d -o CMakeFiles/list_node_cpp.dir/list_node.cpp.o -c /home/assumeengage/algorithm/cpp/list_node.cpp
 
 CMakeFiles/list_node_cpp.dir/list_node.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/list_node_cpp.dir/list_node.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/list_node.cpp > CMakeFiles/list_node_cpp.dir/list_node.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/list_node.cpp > CMakeFiles/list_node_cpp.dir/list_node.cpp.i
 
 CMakeFiles/list_node_cpp.dir/list_node.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/list_node_cpp.dir/list_node.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/list_node.cpp -o CMakeFiles/list_node_cpp.dir/list_node.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/list_node.cpp -o CMakeFiles/list_node_cpp.dir/list_node.cpp.s
 
 # Object files for target list_node_cpp
 list_node_cpp_OBJECTS = \

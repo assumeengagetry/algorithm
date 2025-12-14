@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_______________________cpp.dir/cpp/单调递减的数字.cpp.o -o bin/cpp_______________________cpp 

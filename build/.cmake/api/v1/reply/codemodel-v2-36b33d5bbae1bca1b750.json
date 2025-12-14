@@ -1,0 +1,870 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.20"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "algorithm_examples",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15,
+						16,
+						17,
+						18,
+						19,
+						20,
+						21,
+						22,
+						23,
+						24,
+						25,
+						26,
+						27,
+						28,
+						29,
+						30,
+						31,
+						32,
+						33,
+						34,
+						35,
+						36,
+						37,
+						38,
+						39,
+						40,
+						41,
+						42,
+						43,
+						44,
+						45,
+						46,
+						47,
+						48,
+						49,
+						50,
+						51,
+						52,
+						53,
+						54,
+						55,
+						56,
+						57,
+						58,
+						59,
+						60,
+						61,
+						62,
+						63,
+						64,
+						65,
+						66,
+						67,
+						68,
+						69,
+						70,
+						71,
+						72,
+						73,
+						74,
+						75,
+						76,
+						77,
+						78,
+						79,
+						80,
+						81,
+						82,
+						83,
+						84,
+						85,
+						86,
+						87,
+						88,
+						89,
+						90
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_KMP2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_KMP2_cpp-Debug-bee1421780ea6c4baea1.json",
+					"name" : "cpp_KMP2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_KMP_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_KMP_cpp-Debug-d298ed98457456a8ccef.json",
+					"name" : "cpp_KMP_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_Kruskal_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_Kruskal_cpp-Debug-12e42fffe06897a67a15.json",
+					"name" : "cpp_Kruskal_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_Prim_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_Prim_cpp-Debug-e1328fba04e0f980eee3.json",
+					"name" : "cpp_Prim_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp__________3_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp__________3_cpp-Debug-f0aa7c33a714a27cf3ce.json",
+					"name" : "cpp__________3_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_____________2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_____________2_cpp-Debug-713308a8ff5723527474.json",
+					"name" : "cpp_____________2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_____________2_cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_____________2_cpp_2-Debug-c77718b2ccba5c9cb30f.json",
+					"name" : "cpp_____________2_cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_____________2_cpp_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_____________2_cpp_3-Debug-2fc7cb35067a21ec4989.json",
+					"name" : "cpp_____________2_cpp_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_____________2_cpp_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_____________2_cpp_4-Debug-ccc2a7d45a1f59f2181f.json",
+					"name" : "cpp_____________2_cpp_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_____________2_cpp_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_____________2_cpp_5-Debug-4f177c27a0a8e4b26e29.json",
+					"name" : "cpp_____________2_cpp_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_____________2_cpp_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_____________2_cpp_6-Debug-d99d9a20aa4d1146af09.json",
+					"name" : "cpp_____________2_cpp_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________________1_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________________1_cpp-Debug-748819da9f2ba8cc28e7.json",
+					"name" : "cpp________________1_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________________2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________________2_cpp-Debug-36bb05e1592f703a7684.json",
+					"name" : "cpp________________2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________________2_cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________________2_cpp_2-Debug-96ca096a357278faf107.json",
+					"name" : "cpp________________2_cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________________3_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________________3_cpp-Debug-6a1034a67425422a11a0.json",
+					"name" : "cpp________________3_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________________3_cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________________3_cpp_2-Debug-efdc30d42910f035d792.json",
+					"name" : "cpp________________3_cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________________4_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________________4_cpp-Debug-8da7cba47494be355014.json",
+					"name" : "cpp________________4_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_______________________________2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_______________________________2_cpp-Debug-05c9a44e00dfb39ab476.json",
+					"name" : "cpp_______________________________2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp__________________________________________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp__________________________________________________cpp-Debug-473a2faff3da46eb6005.json",
+					"name" : "cpp__________________________________________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________________________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________________________________cpp-Debug-c33f865fe035da484b03.json",
+					"name" : "cpp______________________________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________________________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________________________________cpp-Debug-82a436888e3ed6dee9dc.json",
+					"name" : "cpp________________________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________________________________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________________________________cpp_2-Debug-e127a67ea8cae27b8885.json",
+					"name" : "cpp________________________________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________________________________cpp_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________________________________cpp_3-Debug-628632a2b320f164b9bd.json",
+					"name" : "cpp________________________________cpp_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_____________________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_____________________________cpp-Debug-ae9696e14c09dbdaaa2c.json",
+					"name" : "cpp_____________________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_____________________________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_____________________________cpp_2-Debug-3c71e959c72c455a8e66.json",
+					"name" : "cpp_____________________________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp__________________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp__________________________cpp-Debug-7f86443969c342c061a8.json",
+					"name" : "cpp__________________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp__________________________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp__________________________cpp_2-Debug-bb4ebf44a05240d17948.json",
+					"name" : "cpp__________________________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_______________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_______________________cpp-Debug-cccd1dc2e70856611f2b.json",
+					"name" : "cpp_______________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp____________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp____________________cpp-Debug-f704c339278bb1ba19fe.json",
+					"name" : "cpp____________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_________________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_________________cpp-Debug-2464aa8936a39386918a.json",
+					"name" : "cpp_________________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_________________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_________________cpp_2-Debug-97e3ff1e2d93e99ae7c6.json",
+					"name" : "cpp_________________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_________________cpp_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_________________cpp_3-Debug-0fe0a18df6b82625c296.json",
+					"name" : "cpp_________________cpp_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_________________cpp_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_________________cpp_4-Debug-5add08337a84b3a7f878.json",
+					"name" : "cpp_________________cpp_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_________________cpp_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_________________cpp_5-Debug-3f80854a1403ad50f352.json",
+					"name" : "cpp_________________cpp_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp-Debug-3fcc648aaeb1d6bf4613.json",
+					"name" : "cpp______________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_10-Debug-538579c58ac56d7b1dc8.json",
+					"name" : "cpp______________cpp_10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_11-Debug-547e6d08d9fd1d044be8.json",
+					"name" : "cpp______________cpp_11",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_12::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_12-Debug-a3788ba450a5a1b7a5ce.json",
+					"name" : "cpp______________cpp_12",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_13::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_13-Debug-2d1c1dea7f6fd28273de.json",
+					"name" : "cpp______________cpp_13",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_14::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_14-Debug-48997992171e2841c283.json",
+					"name" : "cpp______________cpp_14",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_15::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_15-Debug-9068c9c90f201c27f0bb.json",
+					"name" : "cpp______________cpp_15",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_16::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_16-Debug-8d5ed8075a6351f76b02.json",
+					"name" : "cpp______________cpp_16",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_17::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_17-Debug-898ce44f1c53d25d0e6b.json",
+					"name" : "cpp______________cpp_17",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_18::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_18-Debug-3c7774d8d7e60127eab9.json",
+					"name" : "cpp______________cpp_18",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_2-Debug-bd71c099444165a3b525.json",
+					"name" : "cpp______________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_3-Debug-dde7a619f423d8e80f09.json",
+					"name" : "cpp______________cpp_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_4-Debug-d2c04e9fd0588d3365e8.json",
+					"name" : "cpp______________cpp_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_5-Debug-f037b08b68ba89b3e0dd.json",
+					"name" : "cpp______________cpp_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_6-Debug-e0a89b7f2ece46dcc3c7.json",
+					"name" : "cpp______________cpp_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_7-Debug-feb08a02a3f1b20f25e4.json",
+					"name" : "cpp______________cpp_7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_8-Debug-bd7dd688fd48dabe9945.json",
+					"name" : "cpp______________cpp_8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp______________cpp_9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp______________cpp_9-Debug-488c9691add050a6d746.json",
+					"name" : "cpp______________cpp_9",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp___________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp___________cpp-Debug-eaaa6b51e79b7a69bb5f.json",
+					"name" : "cpp___________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp___________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp___________cpp_2-Debug-da20b3c526afc337d4dc.json",
+					"name" : "cpp___________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________cpp-Debug-45f7c489f844fab353af.json",
+					"name" : "cpp________cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________cpp_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________cpp_2-Debug-206133e011c0e0b9c012.json",
+					"name" : "cpp________cpp_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________cpp_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________cpp_3-Debug-43e097739396dcf092ce.json",
+					"name" : "cpp________cpp_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________cpp_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________cpp_4-Debug-af3723a6424cbb3b2e9d.json",
+					"name" : "cpp________cpp_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________cpp_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________cpp_5-Debug-ba24da26708bc95a4e66.json",
+					"name" : "cpp________cpp_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp________cpp_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp________cpp_6-Debug-16456091572f4ac91825.json",
+					"name" : "cpp________cpp_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_base64_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_base64_cpp-Debug-9ae149c071fdc82ee499.json",
+					"name" : "cpp_base64_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_change_number_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_change_number_cpp-Debug-c034116daff9a992b8b0.json",
+					"name" : "cpp_change_number_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_competition_ranking_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_competition_ranking_cpp-Debug-282d92ac904fcaa09c74.json",
+					"name" : "cpp_competition_ranking_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_graph1_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_graph1_cpp-Debug-afb18c6cb5c7913c5a8e.json",
+					"name" : "cpp_graph1_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_graph2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_graph2_cpp-Debug-267faee836e96ef540bb.json",
+					"name" : "cpp_graph2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_graph3_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_graph3_cpp-Debug-cd843592d2d91111a2c9.json",
+					"name" : "cpp_graph3_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_graph4_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_graph4_cpp-Debug-95ffd4ff961cea03b9f1.json",
+					"name" : "cpp_graph4_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_homework_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_homework_cpp-Debug-1f967fc45863f038d469.json",
+					"name" : "cpp_homework_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_implement_queue_using_stack_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_implement_queue_using_stack_cpp-Debug-e0774809c4353b9d95ff.json",
+					"name" : "cpp_implement_queue_using_stack_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_implement_stack_using_queue_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_implement_stack_using_queue_cpp-Debug-db67b49e672390bd2f5a.json",
+					"name" : "cpp_implement_stack_using_queue_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_iomainio_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_iomainio_cpp-Debug-a487873409b2de95925c.json",
+					"name" : "cpp_iomainio_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_j_zhi_shu_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_j_zhi_shu_cpp-Debug-b563a139a0e7f5995b8c.json",
+					"name" : "cpp_j_zhi_shu_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_list_node_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_list_node_cpp-Debug-6cc3528722765de7d62c.json",
+					"name" : "cpp_list_node_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_map_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_map_cpp-Debug-7934d091289595db4a02.json",
+					"name" : "cpp_map_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_my_coding_sheet2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_my_coding_sheet2_cpp-Debug-daabf9f8839918329d87.json",
+					"name" : "cpp_my_coding_sheet2_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_my_coding_sheet3_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_my_coding_sheet3_cpp-Debug-ef3e848e67d863916511.json",
+					"name" : "cpp_my_coding_sheet3_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_my_coding_sheet_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_my_coding_sheet_cpp-Debug-747cfd3be86174c9f1b3.json",
+					"name" : "cpp_my_coding_sheet_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_oop_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_oop_cpp-Debug-69caef03a918e0968857.json",
+					"name" : "cpp_oop_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_pseudo_palindrome_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_pseudo_palindrome_cpp-Debug-68977573ab94039e357e.json",
+					"name" : "cpp_pseudo_palindrome_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_refcountNode_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_refcountNode_cpp-Debug-1583343b017b4a620f72.json",
+					"name" : "cpp_refcountNode_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_selfcontain_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_selfcontain_cpp-Debug-235514c77fb354cd2d03.json",
+					"name" : "cpp_selfcontain_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_shell_and_terminal_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_shell_and_terminal_cpp-Debug-de5ba59c8b3867cd9f69.json",
+					"name" : "cpp_shell_and_terminal_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_sparse_matrix_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_sparse_matrix_cpp-Debug-0bd1b29735252cdf3a64.json",
+					"name" : "cpp_sparse_matrix_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_stl_example_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_stl_example_cpp-Debug-c435117fbbe86b1e6aa9.json",
+					"name" : "cpp_stl_example_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_stringclass_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_stringclass_cpp-Debug-a4f136ac1abbb181bc5c.json",
+					"name" : "cpp_stringclass_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_suibianlaiyixia_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_suibianlaiyixia_cpp-Debug-358a307f69e0fabec07b.json",
+					"name" : "cpp_suibianlaiyixia_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_testcpp20_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_testcpp20_cpp-Debug-5b454222c3e62ecf8b72.json",
+					"name" : "cpp_testcpp20_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_the_add_and_bonus_of_the_chain_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_the_add_and_bonus_of_the_chain_cpp-Debug-6ccb044d92e3bfaf5f2f.json",
+					"name" : "cpp_the_add_and_bonus_of_the_chain_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_try_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_try_cpp-Debug-79758241571a3d72ea53.json",
+					"name" : "cpp_try_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_vector_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_vector_cpp-Debug-e965537dd48f675576ef.json",
+					"name" : "cpp_vector_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "cpp_word_reverse_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-cpp_word_reverse_cpp-Debug-3b0499d2a4290d901f2b.json",
+					"name" : "cpp_word_reverse_cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/assumeengage/algorithm/build",
+		"source" : "/home/assumeengage/algorithm"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

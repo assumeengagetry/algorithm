@@ -73,15 +73,15 @@ CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转�
 CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.o: /home/assumeengage/algorithm/cpp/十六进制和八进制转化.cpp
 CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.o: CMakeFiles/_______________________________cpp_2.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.o -MF CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.o.d -o CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.o -c /home/assumeengage/algorithm/cpp/十六进制和八进制转化.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.o -MF CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.o.d -o CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.o -c /home/assumeengage/algorithm/cpp/十六进制和八进制转化.cpp
 
 CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/十六进制和八进制转化.cpp > CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/十六进制和八进制转化.cpp > CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.i
 
 CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/十六进制和八进制转化.cpp -o CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/十六进制和八进制转化.cpp -o CMakeFiles/_______________________________cpp_2.dir/十六进制和八进制转化.cpp.s
 
 # Object files for target _______________________________cpp_2
 _______________________________cpp_2_OBJECTS = \

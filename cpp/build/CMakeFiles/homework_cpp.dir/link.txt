@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/homework_cpp.dir/homework.cpp.o -o bin/homework_cpp 
+/usr/bin/g++ CMakeFiles/homework_cpp.dir/homework.cpp.o -o bin/homework_cpp 

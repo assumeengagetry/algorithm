@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/KMP2_cpp.dir/KMP2.cpp.o -o bin/KMP2_cpp 
+/usr/bin/g++ CMakeFiles/KMP2_cpp.dir/KMP2.cpp.o -o bin/KMP2_cpp 

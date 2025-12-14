@@ -73,15 +73,15 @@ CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.o: CMakeFiles/testcpp20_cpp.dir/flags
 CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.o: /home/assumeengage/algorithm/cpp/testcpp20.cpp
 CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.o: CMakeFiles/testcpp20_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.o -MF CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.o.d -o CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.o -c /home/assumeengage/algorithm/cpp/testcpp20.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.o -MF CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.o.d -o CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.o -c /home/assumeengage/algorithm/cpp/testcpp20.cpp
 
 CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/testcpp20.cpp > CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/testcpp20.cpp > CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.i
 
 CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/testcpp20.cpp -o CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/testcpp20.cpp -o CMakeFiles/testcpp20_cpp.dir/testcpp20.cpp.s
 
 # Object files for target testcpp20_cpp
 testcpp20_cpp_OBJECTS = \

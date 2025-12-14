@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp______________cpp_16.dir/cpp/木桶排序.cpp.o -o bin/cpp______________cpp_16 

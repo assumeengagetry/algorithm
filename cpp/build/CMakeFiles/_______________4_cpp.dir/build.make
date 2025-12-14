@@ -73,15 +73,15 @@ CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.o: CMakeFiles/_________
 CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.o: /home/assumeengage/algorithm/cpp/二维前缀和4.cpp
 CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.o: CMakeFiles/_______________4_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.o -MF CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.o.d -o CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.o -c /home/assumeengage/algorithm/cpp/二维前缀和4.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.o -MF CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.o.d -o CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.o -c /home/assumeengage/algorithm/cpp/二维前缀和4.cpp
 
 CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/二维前缀和4.cpp > CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/二维前缀和4.cpp > CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.i
 
 CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/二维前缀和4.cpp -o CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/二维前缀和4.cpp -o CMakeFiles/_______________4_cpp.dir/二维前缀和4.cpp.s
 
 # Object files for target _______________4_cpp
 _______________4_cpp_OBJECTS = \

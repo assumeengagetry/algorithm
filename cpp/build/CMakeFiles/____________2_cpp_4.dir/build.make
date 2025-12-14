@@ -73,15 +73,15 @@ CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o: CMakeFiles/____________2
 CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o: /home/assumeengage/algorithm/cpp/快速排序2.cpp
 CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o: CMakeFiles/____________2_cpp_4.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o -MF CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o.d -o CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o -c /home/assumeengage/algorithm/cpp/快速排序2.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o -MF CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o.d -o CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.o -c /home/assumeengage/algorithm/cpp/快速排序2.cpp
 
 CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/快速排序2.cpp > CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/快速排序2.cpp > CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.i
 
 CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/快速排序2.cpp -o CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/快速排序2.cpp -o CMakeFiles/____________2_cpp_4.dir/快速排序2.cpp.s
 
 # Object files for target ____________2_cpp_4
 ____________2_cpp_4_OBJECTS = \

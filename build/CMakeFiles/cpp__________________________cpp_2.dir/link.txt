@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp__________________________cpp_2.dir/cpp/暴力讨论一维数组.cpp.o -o bin/cpp__________________________cpp_2 

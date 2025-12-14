@@ -73,15 +73,15 @@ CMakeFiles/iomainio_cpp.dir/iomainio.cpp.o: CMakeFiles/iomainio_cpp.dir/flags.ma
 CMakeFiles/iomainio_cpp.dir/iomainio.cpp.o: /home/assumeengage/algorithm/cpp/iomainio.cpp
 CMakeFiles/iomainio_cpp.dir/iomainio.cpp.o: CMakeFiles/iomainio_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/iomainio_cpp.dir/iomainio.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/iomainio_cpp.dir/iomainio.cpp.o -MF CMakeFiles/iomainio_cpp.dir/iomainio.cpp.o.d -o CMakeFiles/iomainio_cpp.dir/iomainio.cpp.o -c /home/assumeengage/algorithm/cpp/iomainio.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/iomainio_cpp.dir/iomainio.cpp.o -MF CMakeFiles/iomainio_cpp.dir/iomainio.cpp.o.d -o CMakeFiles/iomainio_cpp.dir/iomainio.cpp.o -c /home/assumeengage/algorithm/cpp/iomainio.cpp
 
 CMakeFiles/iomainio_cpp.dir/iomainio.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/iomainio_cpp.dir/iomainio.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/iomainio.cpp > CMakeFiles/iomainio_cpp.dir/iomainio.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/iomainio.cpp > CMakeFiles/iomainio_cpp.dir/iomainio.cpp.i
 
 CMakeFiles/iomainio_cpp.dir/iomainio.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/iomainio_cpp.dir/iomainio.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/iomainio.cpp -o CMakeFiles/iomainio_cpp.dir/iomainio.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/iomainio.cpp -o CMakeFiles/iomainio_cpp.dir/iomainio.cpp.s
 
 # Object files for target iomainio_cpp
 iomainio_cpp_OBJECTS = \

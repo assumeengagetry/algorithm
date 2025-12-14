@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o -o bin/suibianlaiyixia_cpp 
+/usr/bin/g++ CMakeFiles/suibianlaiyixia_cpp.dir/suibianlaiyixia.cpp.o -o bin/suibianlaiyixia_cpp 

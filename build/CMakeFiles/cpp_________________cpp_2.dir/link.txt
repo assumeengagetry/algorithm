@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_________________cpp_2.dir/cpp/引用与指针.cpp.o -o bin/cpp_________________cpp_2 

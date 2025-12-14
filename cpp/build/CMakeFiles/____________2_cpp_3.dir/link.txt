@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/____________2_cpp_3.dir/归并排序2.cpp.o -o bin/____________2_cpp_3 
+/usr/bin/g++ CMakeFiles/____________2_cpp_3.dir/归并排序2.cpp.o -o bin/____________2_cpp_3 

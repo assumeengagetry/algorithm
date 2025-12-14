@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp__________3_cpp.dir/cpp/循环赛3.cpp.o -o bin/cpp__________3_cpp 

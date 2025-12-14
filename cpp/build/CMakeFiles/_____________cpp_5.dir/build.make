@@ -73,15 +73,15 @@ CMakeFiles/_____________cpp_5.dir/动态规划.cpp.o: CMakeFiles/_____________cp
 CMakeFiles/_____________cpp_5.dir/动态规划.cpp.o: /home/assumeengage/algorithm/cpp/动态规划.cpp
 CMakeFiles/_____________cpp_5.dir/动态规划.cpp.o: CMakeFiles/_____________cpp_5.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/_____________cpp_5.dir/动态规划.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_____________cpp_5.dir/动态规划.cpp.o -MF CMakeFiles/_____________cpp_5.dir/动态规划.cpp.o.d -o CMakeFiles/_____________cpp_5.dir/动态规划.cpp.o -c /home/assumeengage/algorithm/cpp/动态规划.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_____________cpp_5.dir/动态规划.cpp.o -MF CMakeFiles/_____________cpp_5.dir/动态规划.cpp.o.d -o CMakeFiles/_____________cpp_5.dir/动态规划.cpp.o -c /home/assumeengage/algorithm/cpp/动态规划.cpp
 
 CMakeFiles/_____________cpp_5.dir/动态规划.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/_____________cpp_5.dir/动态规划.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/动态规划.cpp > CMakeFiles/_____________cpp_5.dir/动态规划.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/动态规划.cpp > CMakeFiles/_____________cpp_5.dir/动态规划.cpp.i
 
 CMakeFiles/_____________cpp_5.dir/动态规划.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/_____________cpp_5.dir/动态规划.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/动态规划.cpp -o CMakeFiles/_____________cpp_5.dir/动态规划.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/动态规划.cpp -o CMakeFiles/_____________cpp_5.dir/动态规划.cpp.s
 
 # Object files for target _____________cpp_5
 _____________cpp_5_OBJECTS = \

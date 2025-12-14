@@ -1,1 +1,1 @@
-/usr/bin/c++ CMakeFiles/_______________2_cpp_2.dir/用栈走迷宫2.cpp.o -o bin/_______________2_cpp_2 
+/usr/bin/g++ CMakeFiles/_______________2_cpp_2.dir/用栈走迷宫2.cpp.o -o bin/_______________2_cpp_2 

@@ -73,15 +73,15 @@ CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.o: CMakeFiles/sparse_matrix_c
 CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.o: /home/assumeengage/algorithm/cpp/sparse_matrix.cpp
 CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.o: CMakeFiles/sparse_matrix_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.o -MF CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.o.d -o CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.o -c /home/assumeengage/algorithm/cpp/sparse_matrix.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.o -MF CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.o.d -o CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.o -c /home/assumeengage/algorithm/cpp/sparse_matrix.cpp
 
 CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/sparse_matrix.cpp > CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/sparse_matrix.cpp > CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.i
 
 CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/sparse_matrix.cpp -o CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/sparse_matrix.cpp -o CMakeFiles/sparse_matrix_cpp.dir/sparse_matrix.cpp.s
 
 # Object files for target sparse_matrix_cpp
 sparse_matrix_cpp_OBJECTS = \

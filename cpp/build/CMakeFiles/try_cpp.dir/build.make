@@ -73,15 +73,15 @@ CMakeFiles/try_cpp.dir/try.cpp.o: CMakeFiles/try_cpp.dir/flags.make
 CMakeFiles/try_cpp.dir/try.cpp.o: /home/assumeengage/algorithm/cpp/try.cpp
 CMakeFiles/try_cpp.dir/try.cpp.o: CMakeFiles/try_cpp.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/try_cpp.dir/try.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/try_cpp.dir/try.cpp.o -MF CMakeFiles/try_cpp.dir/try.cpp.o.d -o CMakeFiles/try_cpp.dir/try.cpp.o -c /home/assumeengage/algorithm/cpp/try.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/try_cpp.dir/try.cpp.o -MF CMakeFiles/try_cpp.dir/try.cpp.o.d -o CMakeFiles/try_cpp.dir/try.cpp.o -c /home/assumeengage/algorithm/cpp/try.cpp
 
 CMakeFiles/try_cpp.dir/try.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/try_cpp.dir/try.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/try.cpp > CMakeFiles/try_cpp.dir/try.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/try.cpp > CMakeFiles/try_cpp.dir/try.cpp.i
 
 CMakeFiles/try_cpp.dir/try.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/try_cpp.dir/try.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/try.cpp -o CMakeFiles/try_cpp.dir/try.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/try.cpp -o CMakeFiles/try_cpp.dir/try.cpp.s
 
 # Object files for target try_cpp
 try_cpp_OBJECTS = \

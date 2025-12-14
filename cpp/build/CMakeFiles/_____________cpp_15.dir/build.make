@@ -73,15 +73,15 @@ CMakeFiles/_____________cpp_15.dir/新建联系.cpp.o: CMakeFiles/_____________c
 CMakeFiles/_____________cpp_15.dir/新建联系.cpp.o: /home/assumeengage/algorithm/cpp/新建联系.cpp
 CMakeFiles/_____________cpp_15.dir/新建联系.cpp.o: CMakeFiles/_____________cpp_15.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/home/assumeengage/algorithm/cpp/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/_____________cpp_15.dir/新建联系.cpp.o"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_____________cpp_15.dir/新建联系.cpp.o -MF CMakeFiles/_____________cpp_15.dir/新建联系.cpp.o.d -o CMakeFiles/_____________cpp_15.dir/新建联系.cpp.o -c /home/assumeengage/algorithm/cpp/新建联系.cpp
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/_____________cpp_15.dir/新建联系.cpp.o -MF CMakeFiles/_____________cpp_15.dir/新建联系.cpp.o.d -o CMakeFiles/_____________cpp_15.dir/新建联系.cpp.o -c /home/assumeengage/algorithm/cpp/新建联系.cpp
 
 CMakeFiles/_____________cpp_15.dir/新建联系.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/_____________cpp_15.dir/新建联系.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/新建联系.cpp > CMakeFiles/_____________cpp_15.dir/新建联系.cpp.i
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/assumeengage/algorithm/cpp/新建联系.cpp > CMakeFiles/_____________cpp_15.dir/新建联系.cpp.i
 
 CMakeFiles/_____________cpp_15.dir/新建联系.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/_____________cpp_15.dir/新建联系.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/新建联系.cpp -o CMakeFiles/_____________cpp_15.dir/新建联系.cpp.s
+	/usr/bin/g++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/assumeengage/algorithm/cpp/新建联系.cpp -o CMakeFiles/_____________cpp_15.dir/新建联系.cpp.s
 
 # Object files for target _____________cpp_15
 _____________cpp_15_OBJECTS = \

@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp______________cpp_14.dir/cpp/数的表示.cpp.o -o bin/cpp______________cpp_14 

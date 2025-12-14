@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/cpp_________________cpp.dir/cpp/动规二叉树.cpp.o -o bin/cpp_________________cpp 
